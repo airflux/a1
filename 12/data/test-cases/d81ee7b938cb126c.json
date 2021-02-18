@@ -1,0 +1,57 @@
+{
+  "uid" : "d81ee7b938cb126c",
+  "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+  "fullName" : "io.github.airflux.reader.NullableWithDefaultPathReaderTest$FromJsValue.Testing 'withDefault' function (an attribute is not found, invalid type)",
+  "historyId" : "3025c2b5dfacfd77fffe8536cedb8845",
+  "time" : {
+    "start" : 1613670037508,
+    "stop" : 1613670037510,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.NullableWithDefaultPathReaderTest$FromJsValue"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.NullableWithDefaultPathReaderTest$FromJsValue"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'withDefault' function (an attribute is not found, invalid type)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.NullableWithDefaultPathReaderTest.FromJsValue"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d81ee7b938cb126c.json",
+  "parameterValues" : [ ]
+}

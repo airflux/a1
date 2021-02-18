@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://airflux.github.io/a1",
+  "buildOrder" : 12,
+  "buildName" : "GitHub Actions Run #578940158",
+  "buildUrl" : "https://github.com/airflux/a1/actions/runs/578940158",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://airflux.github.io/a1/12/"
+} ]

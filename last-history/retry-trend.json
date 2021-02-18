@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 12,
+  "reportUrl" : "https://airflux.github.io/a1/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 241,
+    "retry" : 0
+  }
+} ]

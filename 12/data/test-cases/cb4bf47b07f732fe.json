@@ -1,0 +1,57 @@
+{
+  "uid" : "cb4bf47b07f732fe",
+  "name" : "Testing basic validator of the 'max' (the number is equal to the maximum)()",
+  "fullName" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Max.Testing basic validator of the 'max' (the number is equal to the maximum)",
+  "historyId" : "58a1fabae4b5e0ef794c96a5df7a09f4",
+  "time" : {
+    "start" : 1613670036768,
+    "stop" : 1613670036769,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Max"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Max"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'max' (the number is equal to the maximum)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest.Max"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb4bf47b07f732fe.json",
+  "parameterValues" : [ ]
+}

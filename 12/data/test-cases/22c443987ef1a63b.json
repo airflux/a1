@@ -1,0 +1,57 @@
+{
+  "uid" : "22c443987ef1a63b",
+  "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and equal the min allowed length)()",
+  "fullName" : "io.github.airflux.reader.validator.base.StringValidatorsTest$MinLength.Testing basic validator of the 'minLength' (a value of a string is blank, and equal the min allowed length)",
+  "historyId" : "cd37722051d165f69ddda5a1916b9bf9",
+  "time" : {
+    "start" : 1613670036929,
+    "stop" : 1613670036930,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$MinLength"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$MinLength"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'minLength' (a value of a string is blank, and equal the min allowed length)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest.MinLength"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22c443987ef1a63b.json",
+  "parameterValues" : [ ]
+}

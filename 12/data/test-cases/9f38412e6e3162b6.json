@@ -1,0 +1,57 @@
+{
+  "uid" : "9f38412e6e3162b6",
+  "name" : "Testing reader for 'Int' type (reading a value that more the allowed range)()",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$IntReader.Testing reader for 'Int' type (reading a value that more the allowed range)",
+  "historyId" : "266b6c2beb599e1d27af06e807437d63",
+  "time" : {
+    "start" : 1613670037843,
+    "stop" : 1613670037844,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$IntReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$IntReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'Int' type (reading a value that more the allowed range)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.IntReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f38412e6e3162b6.json",
+  "parameterValues" : [ ]
+}

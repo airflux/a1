@@ -1,0 +1,3422 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "io.github.airflux",
+    "children" : [ {
+      "name" : "path",
+      "children" : [ {
+        "name" : "JsPathTest",
+        "children" : [ {
+          "name" : "Testing 'toString' function of the JsPath class",
+          "uid" : "fad1078237342227",
+          "parentUid" : "24e71e1731917ac70d6d35fe2bbbf089",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670036321,
+            "stop" : 1613670036445,
+            "duration" : 124
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'equals contract' of the JsPath class",
+          "uid" : "f6e9c8ca26d673d8",
+          "parentUid" : "24e71e1731917ac70d6d35fe2bbbf089",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670036644,
+            "stop" : 1613670036647,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "24e71e1731917ac70d6d35fe2bbbf089"
+      }, {
+        "name" : "JsPathTest$CompanionObject",
+        "children" : [ {
+          "name" : "Testing 'repath' function in companion object",
+          "uid" : "957ea1a6ba674104",
+          "parentUid" : "2d676b160c6fabf2366806d14e91766e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670036660,
+            "stop" : 1613670036668,
+            "duration" : 8
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2d676b160c6fabf2366806d14e91766e"
+      }, {
+        "name" : "JsPathTest$Constructors",
+        "children" : [ {
+          "name" : "Testing the constructor of the JsPath class with number parameter",
+          "uid" : "6e99cdb45f420e28",
+          "parentUid" : "83fd7f18df7a2ed6fa03b7bdcfdc6ca6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670036682,
+            "stop" : 1613670036685,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the constructor of the JsPath class with text parameter",
+          "uid" : "ba00ff0f67481f4a",
+          "parentUid" : "83fd7f18df7a2ed6fa03b7bdcfdc6ca6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670036690,
+            "stop" : 1613670036691,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the constructor of the JsPath class without parameters",
+          "uid" : "38c8d03052528d40",
+          "parentUid" : "83fd7f18df7a2ed6fa03b7bdcfdc6ca6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670036698,
+            "stop" : 1613670036699,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "83fd7f18df7a2ed6fa03b7bdcfdc6ca6"
+      } ],
+      "uid" : "470433e3e4b88b1ec47fee10b1e6fe09"
+    }, {
+      "name" : "reader",
+      "children" : [ {
+        "name" : "validator",
+        "children" : [ {
+          "name" : "base",
+          "children" : [ {
+            "name" : "NumberValidatorsTest$Min",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'min' (a number is more than the minimum)",
+              "uid" : "50fa3c5032ce9693",
+              "parentUid" : "fa1ed6a01a6e55805528c0eb868f726a",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036713,
+                "stop" : 1613670036723,
+                "duration" : 10
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'min' (a number is equal to the minimum)",
+              "uid" : "9161e33c56a528c2",
+              "parentUid" : "fa1ed6a01a6e55805528c0eb868f726a",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036730,
+                "stop" : 1613670036732,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'min' (a number is less than the minimum)",
+              "uid" : "570299020bf0bc1",
+              "parentUid" : "fa1ed6a01a6e55805528c0eb868f726a",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036738,
+                "stop" : 1613670036740,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "fa1ed6a01a6e55805528c0eb868f726a"
+          }, {
+            "name" : "NumberValidatorsTest$Max",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'max' (the number is more than the maximum)",
+              "uid" : "6b3c65b595614ebb",
+              "parentUid" : "fc98ef99cd02e35f724289e10ee21efc",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036753,
+                "stop" : 1613670036757,
+                "duration" : 4
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'max' (the number is less than the maximum)",
+              "uid" : "36ae4a98168c40a2",
+              "parentUid" : "fc98ef99cd02e35f724289e10ee21efc",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036763,
+                "stop" : 1613670036765,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'max' (the number is equal to the maximum)",
+              "uid" : "cb4bf47b07f732fe",
+              "parentUid" : "fc98ef99cd02e35f724289e10ee21efc",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036768,
+                "stop" : 1613670036769,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "fc98ef99cd02e35f724289e10ee21efc"
+          }, {
+            "name" : "NumberValidatorsTest$Eq",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'eq' (the number is equals to a expected value)",
+              "uid" : "6407dde435da3f85",
+              "parentUid" : "22b9d99655428e1fb457bc623d0b3608",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036781,
+                "stop" : 1613670036784,
+                "duration" : 3
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'eq' (the number is more than a expected value)",
+              "uid" : "5a8f3391c57de5f2",
+              "parentUid" : "22b9d99655428e1fb457bc623d0b3608",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036787,
+                "stop" : 1613670036788,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'eq' (the number is less than a expected value)",
+              "uid" : "91bf7a7984cc3a68",
+              "parentUid" : "22b9d99655428e1fb457bc623d0b3608",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036791,
+                "stop" : 1613670036792,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "22b9d99655428e1fb457bc623d0b3608"
+          }, {
+            "name" : "NumberValidatorsTest$Ne",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'ne' (the number is less than a expected value)",
+              "uid" : "7550e67043ea029a",
+              "parentUid" : "5c581ff31a35ccbcbb8dd0a90572646b",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036797,
+                "stop" : 1613670036800,
+                "duration" : 3
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'eq' (the number is more than a expected value)",
+              "uid" : "abe28faa43938730",
+              "parentUid" : "5c581ff31a35ccbcbb8dd0a90572646b",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036810,
+                "stop" : 1613670036812,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'ne' (the number is equals to a expected value)",
+              "uid" : "e9fa477b4e407e39",
+              "parentUid" : "5c581ff31a35ccbcbb8dd0a90572646b",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036816,
+                "stop" : 1613670036817,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "5c581ff31a35ccbcbb8dd0a90572646b"
+          }, {
+            "name" : "NumberValidatorsTest$Gt",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'gt' (the number is more than a expected value)",
+              "uid" : "5b8ca47ddc9d181b",
+              "parentUid" : "7899c223aa61b5b09b6269ee85eb1927",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036823,
+                "stop" : 1613670036827,
+                "duration" : 4
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'gt' (the number is less than a expected value)",
+              "uid" : "b212e44d11a0a9f0",
+              "parentUid" : "7899c223aa61b5b09b6269ee85eb1927",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036829,
+                "stop" : 1613670036831,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'gt' (the number is equals to a expected value)",
+              "uid" : "a0efb827951ea930",
+              "parentUid" : "7899c223aa61b5b09b6269ee85eb1927",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036835,
+                "stop" : 1613670036835,
+                "duration" : 0
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "7899c223aa61b5b09b6269ee85eb1927"
+          }, {
+            "name" : "NumberValidatorsTest$Ge",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'ge' (the number is equals to a expected value)",
+              "uid" : "b4fcee2a2fb08fc8",
+              "parentUid" : "c50f8b26162960ee1a5a7f831f5a7502",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036845,
+                "stop" : 1613670036849,
+                "duration" : 4
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'ge' (the number is more than a expected value)",
+              "uid" : "eee5f070cdd11edb",
+              "parentUid" : "c50f8b26162960ee1a5a7f831f5a7502",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036853,
+                "stop" : 1613670036854,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'ge' (the number is less than a expected value)",
+              "uid" : "b4d33f88e64d5f0f",
+              "parentUid" : "c50f8b26162960ee1a5a7f831f5a7502",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036857,
+                "stop" : 1613670036859,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "c50f8b26162960ee1a5a7f831f5a7502"
+          }, {
+            "name" : "NumberValidatorsTest$Lt",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'lt' (the number is equals to a expected value)",
+              "uid" : "896df9b35e92b205",
+              "parentUid" : "918771297dd275302f26110698a60a18",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036865,
+                "stop" : 1613670036868,
+                "duration" : 3
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'lt' (the number is more than a expected value)",
+              "uid" : "1fa5a55eb3d61389",
+              "parentUid" : "918771297dd275302f26110698a60a18",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036874,
+                "stop" : 1613670036875,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'lt' (the number is less than a expected value)",
+              "uid" : "b5682917265d55dd",
+              "parentUid" : "918771297dd275302f26110698a60a18",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036877,
+                "stop" : 1613670036878,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "918771297dd275302f26110698a60a18"
+          }, {
+            "name" : "NumberValidatorsTest$Le",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'le' (the number is equals to a expected value)",
+              "uid" : "8337e4ad36415374",
+              "parentUid" : "8b7ea451385d72989df09dad1c2e065e",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036884,
+                "stop" : 1613670036887,
+                "duration" : 3
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'le' (the number is more than a expected value)",
+              "uid" : "45dd278392cf50a6",
+              "parentUid" : "8b7ea451385d72989df09dad1c2e065e",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036889,
+                "stop" : 1613670036891,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'le' (the number is less than a expected value)",
+              "uid" : "6bc8774d6f2e2350",
+              "parentUid" : "8b7ea451385d72989df09dad1c2e065e",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036895,
+                "stop" : 1613670036896,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "8b7ea451385d72989df09dad1c2e065e"
+          }, {
+            "name" : "StringValidatorsTest$MinLength",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'minLength' (a value of a string is less than the min allowed length)",
+              "uid" : "a36e65630aebe923",
+              "parentUid" : "7f3f0d4f1c1c965de9a65d3e62679caf",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036909,
+                "stop" : 1613670036911,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and more the min allowed length)",
+              "uid" : "b97568ac6a119fec",
+              "parentUid" : "7f3f0d4f1c1c965de9a65d3e62679caf",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036915,
+                "stop" : 1613670036917,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and less the min allowed length)",
+              "uid" : "84d38df0ea67ecdc",
+              "parentUid" : "7f3f0d4f1c1c965de9a65d3e62679caf",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036922,
+                "stop" : 1613670036922,
+                "duration" : 0
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minLength' (a value of a string is empty)",
+              "uid" : "e1f8b6ee6416c7b2",
+              "parentUid" : "7f3f0d4f1c1c965de9a65d3e62679caf",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036925,
+                "stop" : 1613670036926,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and equal the min allowed length)",
+              "uid" : "22c443987ef1a63b",
+              "parentUid" : "7f3f0d4f1c1c965de9a65d3e62679caf",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036929,
+                "stop" : 1613670036930,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minLength' (a value of a string is more than the min allowed length)",
+              "uid" : "ccd0820f6c922271",
+              "parentUid" : "7f3f0d4f1c1c965de9a65d3e62679caf",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036932,
+                "stop" : 1613670036933,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minLength' (a value of a string is equal to the min allowed length)",
+              "uid" : "6326b4d38cb2be2e",
+              "parentUid" : "7f3f0d4f1c1c965de9a65d3e62679caf",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036937,
+                "stop" : 1613670036938,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "7f3f0d4f1c1c965de9a65d3e62679caf"
+          }, {
+            "name" : "StringValidatorsTest$MaxLength",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'maxLength' (a value of a string is more than the max allowed length)",
+              "uid" : "b6abec4683fa6a98",
+              "parentUid" : "723043e612db686d82f25ffa7c29ef34",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036945,
+                "stop" : 1613670036948,
+                "duration" : 3
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and more the max allowed length)",
+              "uid" : "3547728fcf56fcb6",
+              "parentUid" : "723043e612db686d82f25ffa7c29ef34",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036951,
+                "stop" : 1613670036952,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and less the max allowed length)",
+              "uid" : "f63b456beaa42ecd",
+              "parentUid" : "723043e612db686d82f25ffa7c29ef34",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036954,
+                "stop" : 1613670036954,
+                "duration" : 0
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxLength' (a value of a string is less than the max allowed length)",
+              "uid" : "801524b8d80adacb",
+              "parentUid" : "723043e612db686d82f25ffa7c29ef34",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036957,
+                "stop" : 1613670036958,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxLength' (a value of a string is empty)",
+              "uid" : "e21b77991af944ec",
+              "parentUid" : "723043e612db686d82f25ffa7c29ef34",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036961,
+                "stop" : 1613670036962,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxLength' (a value of a string is equal to the max allowed length)",
+              "uid" : "211d09f45ee53f3c",
+              "parentUid" : "723043e612db686d82f25ffa7c29ef34",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036966,
+                "stop" : 1613670036967,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and equal the max allowed length)",
+              "uid" : "804aa1b9e34bcdad",
+              "parentUid" : "723043e612db686d82f25ffa7c29ef34",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036970,
+                "stop" : 1613670036971,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "723043e612db686d82f25ffa7c29ef34"
+          }, {
+            "name" : "StringValidatorsTest$IsNotEmpty",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is blank)",
+              "uid" : "11fe58a31b212f36",
+              "parentUid" : "bd8f30883b8747e602eae71ef34aa148",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036975,
+                "stop" : 1613670036976,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is empty)",
+              "uid" : "76ded7d5b72011f5",
+              "parentUid" : "bd8f30883b8747e602eae71ef34aa148",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036979,
+                "stop" : 1613670036980,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is not empty)",
+              "uid" : "4074acf0d53b5974",
+              "parentUid" : "bd8f30883b8747e602eae71ef34aa148",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036982,
+                "stop" : 1613670036983,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "bd8f30883b8747e602eae71ef34aa148"
+          }, {
+            "name" : "StringValidatorsTest$IsNotBlank",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is not blank)",
+              "uid" : "3302ba02442270cc",
+              "parentUid" : "fa219649bcbb69536bb9d545f14968c3",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670036989,
+                "stop" : 1613670037071,
+                "duration" : 82
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is blank)",
+              "uid" : "3dab4ab64996c50",
+              "parentUid" : "fa219649bcbb69536bb9d545f14968c3",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037074,
+                "stop" : 1613670037075,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is empty)",
+              "uid" : "b314603f7f604fd4",
+              "parentUid" : "fa219649bcbb69536bb9d545f14968c3",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037078,
+                "stop" : 1613670037079,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "fa219649bcbb69536bb9d545f14968c3"
+          }, {
+            "name" : "StringValidatorsTest$Pattern",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'pattern' (a value of a string is not matching to the pattern)",
+              "uid" : "77fcf79338f5398c",
+              "parentUid" : "3104c1522b7922c9aea60b174d078b21",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037087,
+                "stop" : 1613670037089,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'pattern' (a value of a string is empty)",
+              "uid" : "ae3be69e03f38c7c",
+              "parentUid" : "3104c1522b7922c9aea60b174d078b21",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037094,
+                "stop" : 1613670037096,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'pattern' (a value of a string is matching to the pattern)",
+              "uid" : "98440fce99cb66e8",
+              "parentUid" : "3104c1522b7922c9aea60b174d078b21",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037099,
+                "stop" : 1613670037100,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "3104c1522b7922c9aea60b174d078b21"
+          }, {
+            "name" : "StringValidatorsTest$IsA",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'isA' (a value of a string is not a number)",
+              "uid" : "5c7c878be0b93e34",
+              "parentUid" : "599dcde9896383beebaf541680cc17ff",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037108,
+                "stop" : 1613670037109,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'isA' (a value of a string is a number)",
+              "uid" : "5705b1eaddff16e7",
+              "parentUid" : "599dcde9896383beebaf541680cc17ff",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037112,
+                "stop" : 1613670037113,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'isA' (a value of a string is not a number but an empty string)",
+              "uid" : "9debb98e5710130a",
+              "parentUid" : "599dcde9896383beebaf541680cc17ff",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037121,
+                "stop" : 1613670037121,
+                "duration" : 0
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "599dcde9896383beebaf541680cc17ff"
+          }, {
+            "name" : "ArrayValidatorsTest$MinItems",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'minItems' (a count of elements is more than the minimum)",
+              "uid" : "4098822bdef59724",
+              "parentUid" : "8fd5a5812503d9c9560ab2bb2ccd918d",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037130,
+                "stop" : 1613670037244,
+                "duration" : 114
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minItems' (a number of elements is less than the minimum)",
+              "uid" : "b8f159ce52ed959a",
+              "parentUid" : "8fd5a5812503d9c9560ab2bb2ccd918d",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037248,
+                "stop" : 1613670037249,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minItems' (a count of elements is equal to the minimum)",
+              "uid" : "817b80a6c62bfea9",
+              "parentUid" : "8fd5a5812503d9c9560ab2bb2ccd918d",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037251,
+                "stop" : 1613670037251,
+                "duration" : 0
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'minItems' (a collection is empty)",
+              "uid" : "acdd04d7a25a8789",
+              "parentUid" : "8fd5a5812503d9c9560ab2bb2ccd918d",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037253,
+                "stop" : 1613670037256,
+                "duration" : 3
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "8fd5a5812503d9c9560ab2bb2ccd918d"
+          }, {
+            "name" : "ArrayValidatorsTest$MaxItems",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'maxItems' (a collection is empty)",
+              "uid" : "a92c020bc9f695f4",
+              "parentUid" : "17fb5643756f982ff30de4889bafcfff",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037262,
+                "stop" : 1613670037266,
+                "duration" : 4
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxItems' (a count of elements is more than the maximum)",
+              "uid" : "7d67c9b30ffa295e",
+              "parentUid" : "17fb5643756f982ff30de4889bafcfff",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037268,
+                "stop" : 1613670037268,
+                "duration" : 0
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxItems' (a count of elements is equal to the maximum)",
+              "uid" : "f4f2c80785bbb76c",
+              "parentUid" : "17fb5643756f982ff30de4889bafcfff",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037270,
+                "stop" : 1613670037272,
+                "duration" : 2
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'maxItems' (a count of elements is less than the maximum)",
+              "uid" : "d09ef842f41ed192",
+              "parentUid" : "17fb5643756f982ff30de4889bafcfff",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037275,
+                "stop" : 1613670037278,
+                "duration" : 3
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "17fb5643756f982ff30de4889bafcfff"
+          }, {
+            "name" : "ArrayValidatorsTest$IsUnique",
+            "children" : [ {
+              "name" : "Testing basic validator of the 'isUnique' (a collection contains only unique values)",
+              "uid" : "970a9f24350d6881",
+              "parentUid" : "2c8f5abfe92c869cd6319bf24556cf89",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037283,
+                "stop" : 1613670037287,
+                "duration" : 4
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'isUnique' (a collection is empty)",
+              "uid" : "93f83c1583a3b5c3",
+              "parentUid" : "2c8f5abfe92c869cd6319bf24556cf89",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037292,
+                "stop" : 1613670037293,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            }, {
+              "name" : "Testing basic validator of the 'isUnique' (a collection contains duplicates)",
+              "uid" : "a97e4e499ecda641",
+              "parentUid" : "2c8f5abfe92c869cd6319bf24556cf89",
+              "status" : "passed",
+              "time" : {
+                "start" : 1613670037295,
+                "stop" : 1613670037296,
+                "duration" : 1
+              },
+              "flaky" : false,
+              "newFailed" : false,
+              "parameters" : [ ]
+            } ],
+            "uid" : "2c8f5abfe92c869cd6319bf24556cf89"
+          } ],
+          "uid" : "da4601d210e30730a4caa57ccc0b11e1"
+        }, {
+          "name" : "JsValidatorTest",
+          "children" : [ {
+            "name" : "Testing of the logical operator 'or' of a validator",
+            "uid" : "d4bef9e298782c2a",
+            "parentUid" : "70f2bd1c150bb8f89560de8585de7eb5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037407,
+              "stop" : 1613670037440,
+              "duration" : 33
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of the logical operator 'or' of a validator",
+            "uid" : "36d40686ad72b094",
+            "parentUid" : "70f2bd1c150bb8f89560de8585de7eb5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037448,
+              "stop" : 1613670037450,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of the logical operator 'or' of a validator",
+            "uid" : "f000cf4a804209a4",
+            "parentUid" : "70f2bd1c150bb8f89560de8585de7eb5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037454,
+              "stop" : 1613670037455,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of the logical operator 'or' of a validator",
+            "uid" : "135395223e9818b2",
+            "parentUid" : "70f2bd1c150bb8f89560de8585de7eb5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037459,
+              "stop" : 1613670037460,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of the logical operator 'and' of a validator",
+            "uid" : "1ea5fb860456ce81",
+            "parentUid" : "70f2bd1c150bb8f89560de8585de7eb5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037465,
+              "stop" : 1613670037468,
+              "duration" : 3
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of the logical operator 'and' of a validator",
+            "uid" : "49e6e736b1e124e6",
+            "parentUid" : "70f2bd1c150bb8f89560de8585de7eb5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037471,
+              "stop" : 1613670037472,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of the logical operator 'and' of a validator",
+            "uid" : "903514a7bcf134e5",
+            "parentUid" : "70f2bd1c150bb8f89560de8585de7eb5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037474,
+              "stop" : 1613670037475,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of the logical operator 'and' of a validator",
+            "uid" : "1c44b42c1da25364",
+            "parentUid" : "70f2bd1c150bb8f89560de8585de7eb5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037477,
+              "stop" : 1613670037478,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "70f2bd1c150bb8f89560de8585de7eb5"
+        } ],
+        "uid" : "5b8eea81ff7064081ea329da492dfdc6"
+      }, {
+        "name" : "NullableWithDefaultPathReaderTest$FromJsLookup",
+        "children" : [ {
+          "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)",
+          "uid" : "46261afcfdaa4b6c",
+          "parentUid" : "50b6ec01d033cc4e235f71c7dbf7ef0f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037487,
+            "stop" : 1613670037494,
+            "duration" : 7
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)",
+          "uid" : "26ce9b17553745f2",
+          "parentUid" : "50b6ec01d033cc4e235f71c7dbf7ef0f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037497,
+            "stop" : 1613670037501,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)",
+          "uid" : "74175cd0a9eed77b",
+          "parentUid" : "50b6ec01d033cc4e235f71c7dbf7ef0f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037502,
+            "stop" : 1613670037503,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is found)",
+          "uid" : "b59d81cfd18cf109",
+          "parentUid" : "50b6ec01d033cc4e235f71c7dbf7ef0f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037504,
+            "stop" : 1613670037505,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "50b6ec01d033cc4e235f71c7dbf7ef0f"
+      }, {
+        "name" : "NullableWithDefaultPathReaderTest$FromJsValue",
+        "children" : [ {
+          "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)",
+          "uid" : "d81ee7b938cb126c",
+          "parentUid" : "04dd17e8f4dd1582c2dcc48de8d38ab2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037508,
+            "stop" : 1613670037510,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)",
+          "uid" : "e40d98f81fb0240f",
+          "parentUid" : "04dd17e8f4dd1582c2dcc48de8d38ab2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037512,
+            "stop" : 1613670037526,
+            "duration" : 14
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)",
+          "uid" : "7a2270394c4e599e",
+          "parentUid" : "04dd17e8f4dd1582c2dcc48de8d38ab2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037528,
+            "stop" : 1613670037529,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is found)",
+          "uid" : "e31d6820a44ff64",
+          "parentUid" : "04dd17e8f4dd1582c2dcc48de8d38ab2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037531,
+            "stop" : 1613670037532,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "04dd17e8f4dd1582c2dcc48de8d38ab2"
+      }, {
+        "name" : "TraversablePathReaderTest$ListReader",
+        "children" : [ {
+          "name" : "Testing 'list' function (array is empty)",
+          "uid" : "f8a9e4e54e31590",
+          "parentUid" : "6774550546bf5746af508ac2e67acb53",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037542,
+            "stop" : 1613670037554,
+            "duration" : 12
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'list' function (an attribute is not collection)",
+          "uid" : "4bf354c9ebe3e521",
+          "parentUid" : "6774550546bf5746af508ac2e67acb53",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037556,
+            "stop" : 1613670037557,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'list' function",
+          "uid" : "d70022142211da72",
+          "parentUid" : "6774550546bf5746af508ac2e67acb53",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037561,
+            "stop" : 1613670037581,
+            "duration" : 20
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'list' function (collection with inconsistent content)",
+          "uid" : "39ed83912bc836c6",
+          "parentUid" : "6774550546bf5746af508ac2e67acb53",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037587,
+            "stop" : 1613670037592,
+            "duration" : 5
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6774550546bf5746af508ac2e67acb53"
+      }, {
+        "name" : "TraversablePathReaderTest$SetReader",
+        "children" : [ {
+          "name" : "Testing 'set' function (array is empty)",
+          "uid" : "feae3a23c521956",
+          "parentUid" : "f2e1b431ebf14b708975a0f7d54a288b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037596,
+            "stop" : 1613670037604,
+            "duration" : 8
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'set' function",
+          "uid" : "5b6bffba9edb365a",
+          "parentUid" : "f2e1b431ebf14b708975a0f7d54a288b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037609,
+            "stop" : 1613670037609,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'set' function (an attribute is not collection)",
+          "uid" : "428fb899f34a497a",
+          "parentUid" : "f2e1b431ebf14b708975a0f7d54a288b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037611,
+            "stop" : 1613670037612,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'set' function (collection with inconsistent content)",
+          "uid" : "c45e0bf04c529f08",
+          "parentUid" : "f2e1b431ebf14b708975a0f7d54a288b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037614,
+            "stop" : 1613670037615,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f2e1b431ebf14b708975a0f7d54a288b"
+      }, {
+        "name" : "JsReaderTest",
+        "children" : [ {
+          "name" : "Testing 'or' function of the JsReader class (first reader)",
+          "uid" : "4011b006eba9ff3",
+          "parentUid" : "c8bc04fcb9457ac98ac44db361637771",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037620,
+            "stop" : 1613670037625,
+            "duration" : 5
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'or' function of the JsReader class (second reader)",
+          "uid" : "6a69384775caa99c",
+          "parentUid" : "c8bc04fcb9457ac98ac44db361637771",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037628,
+            "stop" : 1613670037631,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'or' function of the JsReader class (failure both reader)",
+          "uid" : "550d71441620e2af",
+          "parentUid" : "c8bc04fcb9457ac98ac44db361637771",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037633,
+            "stop" : 1613670037659,
+            "duration" : 26
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'map' function of the JsReader class",
+          "uid" : "ee5ee411cb06282a",
+          "parentUid" : "c8bc04fcb9457ac98ac44db361637771",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037666,
+            "stop" : 1613670037672,
+            "duration" : 6
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c8bc04fcb9457ac98ac44db361637771"
+      }, {
+        "name" : "extension",
+        "children" : [ {
+          "name" : "ReadAsExtensionTest$ReadAsBoolean",
+          "children" : [ {
+            "name" : "Testing extension-function 'readAsBoolean'",
+            "uid" : "532e92b1335d69e3",
+            "parentUid" : "3d367d2213b1c39100da453ca7782c3c",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037681,
+              "stop" : 1613670037684,
+              "duration" : 3
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing extension-function 'readAsBoolean' (invalid type)",
+            "uid" : "1a22163e00a44fe0",
+            "parentUid" : "3d367d2213b1c39100da453ca7782c3c",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037687,
+              "stop" : 1613670037687,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "3d367d2213b1c39100da453ca7782c3c"
+        }, {
+          "name" : "ReadAsExtensionTest$ReadAsString",
+          "children" : [ {
+            "name" : "Testing extension-function 'readAsString' (invalid type)",
+            "uid" : "5f9a725f1bfbd7b3",
+            "parentUid" : "abdc5d67618002254134e6fa017fcc48",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037691,
+              "stop" : 1613670037691,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing extension-function 'readAsString'",
+            "uid" : "7698c9de20c9108c",
+            "parentUid" : "abdc5d67618002254134e6fa017fcc48",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037693,
+              "stop" : 1613670037694,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "abdc5d67618002254134e6fa017fcc48"
+        }, {
+          "name" : "ReadAsExtensionTest$ReadAsNumber",
+          "children" : [ {
+            "name" : "Testing extension-function 'readAsNumber' invalid type)",
+            "uid" : "1aa54326f1810a9e",
+            "parentUid" : "750c53c429656a7aca592c471ce43363",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037698,
+              "stop" : 1613670037698,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing extension-function 'readAsNumber'",
+            "uid" : "112bdbcabfbc071d",
+            "parentUid" : "750c53c429656a7aca592c471ce43363",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037700,
+              "stop" : 1613670037700,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "750c53c429656a7aca592c471ce43363"
+        } ],
+        "uid" : "7b325366e034cda806287315b12bd910"
+      }, {
+        "name" : "NullablePathReaderTest$FromJsLookup",
+        "children" : [ {
+          "name" : "Testing 'nullable' function (an attribute is found)",
+          "uid" : "e7931dae84f674cf",
+          "parentUid" : "fdcc821d0614ad01d2b1123a8ea14593",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037706,
+            "stop" : 1613670037708,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'nullable' function (an attribute is found with value 'null')",
+          "uid" : "62a3684a01a5ba23",
+          "parentUid" : "fdcc821d0614ad01d2b1123a8ea14593",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037710,
+            "stop" : 1613670037711,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'nullable' function (an attribute is not found, returning value 'null')",
+          "uid" : "37ecd90e6193f210",
+          "parentUid" : "fdcc821d0614ad01d2b1123a8ea14593",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037713,
+            "stop" : 1613670037713,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'nullable' function (an attribute is not found, invalid type)",
+          "uid" : "a6b29f8d406c031f",
+          "parentUid" : "fdcc821d0614ad01d2b1123a8ea14593",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037716,
+            "stop" : 1613670037717,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fdcc821d0614ad01d2b1123a8ea14593"
+      }, {
+        "name" : "NullablePathReaderTest$FromJsValue",
+        "children" : [ {
+          "name" : "Testing 'nullable' function (an attribute is found)",
+          "uid" : "da5422a640c92a8d",
+          "parentUid" : "2503d757f882d6c743da8c6e89d02f5e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037720,
+            "stop" : 1613670037720,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'nullable' function (an attribute is found with value 'null')",
+          "uid" : "396c5b80c988bf24",
+          "parentUid" : "2503d757f882d6c743da8c6e89d02f5e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037722,
+            "stop" : 1613670037722,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'nullable' function (an attribute is not found, returning value 'null')",
+          "uid" : "c9c0135c2ff912e6",
+          "parentUid" : "2503d757f882d6c743da8c6e89d02f5e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037726,
+            "stop" : 1613670037727,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'nullable' function (an attribute is not found, invalid type)",
+          "uid" : "3c55cd6596e9e58a",
+          "parentUid" : "2503d757f882d6c743da8c6e89d02f5e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670037729,
+            "stop" : 1613670037729,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2503d757f882d6c743da8c6e89d02f5e"
+      }, {
+        "name" : "base",
+        "children" : [ {
+          "name" : "BasePrimitiveReaderTest$BooleanReader",
+          "children" : [ {
+            "name" : "Testing reader for 'Boolean' type (reading from invalid node)",
+            "uid" : "ef9c3bb62862bd05",
+            "parentUid" : "0e28ac99c03f5043e30a494bd83dc80d",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037748,
+              "stop" : 1613670037748,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Boolean' type",
+            "uid" : "cc3a23ff1f627b48",
+            "parentUid" : "0e28ac99c03f5043e30a494bd83dc80d",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037750,
+              "stop" : 1613670037751,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "0e28ac99c03f5043e30a494bd83dc80d"
+        }, {
+          "name" : "BasePrimitiveReaderTest$StringReader",
+          "children" : [ {
+            "name" : "Testing reader for 'String' type",
+            "uid" : "9f163da0cda5aee6",
+            "parentUid" : "ec219b04b3c588325f7f38209bc21649",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037753,
+              "stop" : 1613670037754,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'String' type (reading from invalid node)",
+            "uid" : "d5c4047c418cde64",
+            "parentUid" : "ec219b04b3c588325f7f38209bc21649",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037756,
+              "stop" : 1613670037756,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "ec219b04b3c588325f7f38209bc21649"
+        }, {
+          "name" : "BasePrimitiveReaderTest$ByteReader",
+          "children" : [ {
+            "name" : "Testing reader for 'Byte' type (reading a value of an invalid format)",
+            "uid" : "9202a4e4b3319aa5",
+            "parentUid" : "d58d01fb39731f19167098e759d0bff2",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037760,
+              "stop" : 1613670037791,
+              "duration" : 31
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Byte' type (reading from invalid node)",
+            "uid" : "a1ef0fa0caa742d8",
+            "parentUid" : "d58d01fb39731f19167098e759d0bff2",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037795,
+              "stop" : 1613670037796,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Byte' type (reading a value that more the allowed range)",
+            "uid" : "6c227fdaa6d2b1c0",
+            "parentUid" : "d58d01fb39731f19167098e759d0bff2",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037798,
+              "stop" : 1613670037799,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Byte' type",
+            "uid" : "1154465ffe0e64dc",
+            "parentUid" : "d58d01fb39731f19167098e759d0bff2",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037814,
+              "stop" : 1613670037816,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Byte' type",
+            "uid" : "faec593b371c1474",
+            "parentUid" : "d58d01fb39731f19167098e759d0bff2",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037818,
+              "stop" : 1613670037819,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "d58d01fb39731f19167098e759d0bff2"
+        }, {
+          "name" : "BasePrimitiveReaderTest$ShortReader",
+          "children" : [ {
+            "name" : "Testing reader for 'Short' type",
+            "uid" : "c5f5daa688a95f8c",
+            "parentUid" : "311df1022217a0070a8596f0b13479f5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037825,
+              "stop" : 1613670037827,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Short' type",
+            "uid" : "917230e832b612db",
+            "parentUid" : "311df1022217a0070a8596f0b13479f5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037828,
+              "stop" : 1613670037828,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Short' type (reading a value of an invalid format)",
+            "uid" : "3b567d2eea09a2a",
+            "parentUid" : "311df1022217a0070a8596f0b13479f5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037830,
+              "stop" : 1613670037831,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Short' type (reading a value that more the allowed range)",
+            "uid" : "915ed00605ea88b9",
+            "parentUid" : "311df1022217a0070a8596f0b13479f5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037832,
+              "stop" : 1613670037833,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Short' type (reading from invalid node)",
+            "uid" : "47a70b55a258bb0a",
+            "parentUid" : "311df1022217a0070a8596f0b13479f5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037835,
+              "stop" : 1613670037836,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "311df1022217a0070a8596f0b13479f5"
+        }, {
+          "name" : "BasePrimitiveReaderTest$IntReader",
+          "children" : [ {
+            "name" : "Testing reader for 'Int' type (reading a value of an invalid format)",
+            "uid" : "5ecabff2e79eedac",
+            "parentUid" : "b4ce099802acb758e11d60c95dfcd651",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037840,
+              "stop" : 1613670037841,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Int' type (reading a value that more the allowed range)",
+            "uid" : "9f38412e6e3162b6",
+            "parentUid" : "b4ce099802acb758e11d60c95dfcd651",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037843,
+              "stop" : 1613670037844,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Int' type (reading from invalid node)",
+            "uid" : "fba25e8bfb404b9e",
+            "parentUid" : "b4ce099802acb758e11d60c95dfcd651",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037846,
+              "stop" : 1613670037846,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Int' type",
+            "uid" : "2000e88c5926da8c",
+            "parentUid" : "b4ce099802acb758e11d60c95dfcd651",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037850,
+              "stop" : 1613670037851,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Int' type",
+            "uid" : "86fd0bc555f106e2",
+            "parentUid" : "b4ce099802acb758e11d60c95dfcd651",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037857,
+              "stop" : 1613670037858,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "b4ce099802acb758e11d60c95dfcd651"
+        }, {
+          "name" : "BasePrimitiveReaderTest$LongReader",
+          "children" : [ {
+            "name" : "Testing reader for 'Long' type (reading from invalid node)",
+            "uid" : "4800b054998e713c",
+            "parentUid" : "4429de617510a5a83b02322f3d002641",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037863,
+              "stop" : 1613670037866,
+              "duration" : 3
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Long' type (reading a value of an invalid format)",
+            "uid" : "6874d54e8f3b97f9",
+            "parentUid" : "4429de617510a5a83b02322f3d002641",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037868,
+              "stop" : 1613670037871,
+              "duration" : 3
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Long' type",
+            "uid" : "1bd4437e6738b713",
+            "parentUid" : "4429de617510a5a83b02322f3d002641",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037875,
+              "stop" : 1613670037876,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'Long' type",
+            "uid" : "6c96a14ed4013936",
+            "parentUid" : "4429de617510a5a83b02322f3d002641",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037878,
+              "stop" : 1613670037878,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "4429de617510a5a83b02322f3d002641"
+        }, {
+          "name" : "BasePrimitiveReaderTest$BigDecimalReader",
+          "children" : [ {
+            "name" : "Testing reader for 'BigDecimal' type",
+            "uid" : "da32231dc43acb7",
+            "parentUid" : "1dfa3193757a76c90c70181c547cd9f5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037885,
+              "stop" : 1613670037887,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'BigDecimal' type",
+            "uid" : "c8c21abe1b14541c",
+            "parentUid" : "1dfa3193757a76c90c70181c547cd9f5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037888,
+              "stop" : 1613670037890,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing reader for 'BigDecimal' type (reading from invalid node)",
+            "uid" : "42ff4e985db3a254",
+            "parentUid" : "1dfa3193757a76c90c70181c547cd9f5",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037893,
+              "stop" : 1613670037894,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "1dfa3193757a76c90c70181c547cd9f5"
+        } ],
+        "uid" : "373afc4890ceed951067b15b11903c04"
+      }, {
+        "name" : "result",
+        "children" : [ {
+          "name" : "fx.JsResultFxTest",
+          "children" : [ {
+            "name" : "Testing 'fx' extension of the JsResult for the binding success",
+            "uid" : "45e26a8ba9da0789",
+            "parentUid" : "95f2cf9778dbccc943e7438347375cf9",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037898,
+              "stop" : 1613670037902,
+              "duration" : 4
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'fx' extension of the JsResult for the binding failure",
+            "uid" : "f2091ea8fc4e5309",
+            "parentUid" : "95f2cf9778dbccc943e7438347375cf9",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037904,
+              "stop" : 1613670037905,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "fx.JsResultFxTest"
+        }, {
+          "name" : "JsResultTest$Success",
+          "children" : [ {
+            "name" : "Testing 'orElse' function of the Success class",
+            "uid" : "72fb61a21058fa50",
+            "parentUid" : "0581c5d7a187b4fb2d736dffb829e486",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037909,
+              "stop" : 1613670037911,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'repath' function of the Success class",
+            "uid" : "87f50a48e03a85ad",
+            "parentUid" : "0581c5d7a187b4fb2d736dffb829e486",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037914,
+              "stop" : 1613670037915,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'flatMap' function of the Success class",
+            "uid" : "1987c3520f20b437",
+            "parentUid" : "0581c5d7a187b4fb2d736dffb829e486",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037917,
+              "stop" : 1613670037923,
+              "duration" : 6
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'onFailure' function of the Success class",
+            "uid" : "3e71d56e9bb0b1c1",
+            "parentUid" : "0581c5d7a187b4fb2d736dffb829e486",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037929,
+              "stop" : 1613670037930,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'getOrElse' function of the Success class",
+            "uid" : "21eff90298ee41ff",
+            "parentUid" : "0581c5d7a187b4fb2d736dffb829e486",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037933,
+              "stop" : 1613670037934,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'map' function of the Success class",
+            "uid" : "c944894ebbe59681",
+            "parentUid" : "0581c5d7a187b4fb2d736dffb829e486",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037938,
+              "stop" : 1613670037942,
+              "duration" : 4
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "0581c5d7a187b4fb2d736dffb829e486"
+        }, {
+          "name" : "JsResultTest$Failure",
+          "children" : [ {
+            "name" : "Testing 'map' function of the Failure class",
+            "uid" : "d78a84031074fd71",
+            "parentUid" : "a060c7bfdfb43deddfefbf019049ea6e",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037950,
+              "stop" : 1613670037952,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'orElse' function of the Failure class",
+            "uid" : "8c44f12f34be4e6e",
+            "parentUid" : "a060c7bfdfb43deddfefbf019049ea6e",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037954,
+              "stop" : 1613670037955,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'repath' function of the Failure class",
+            "uid" : "a3511696c38fdbd5",
+            "parentUid" : "a060c7bfdfb43deddfefbf019049ea6e",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037957,
+              "stop" : 1613670037957,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'flatMap' function of the Failure class",
+            "uid" : "30516434fc277247",
+            "parentUid" : "a060c7bfdfb43deddfefbf019049ea6e",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037959,
+              "stop" : 1613670037960,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'onFailure' function of the Failure class",
+            "uid" : "7dbbb111e929535c",
+            "parentUid" : "a060c7bfdfb43deddfefbf019049ea6e",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037961,
+              "stop" : 1613670037963,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'getOrElse' function of the Failure class",
+            "uid" : "78b10378324a30cf",
+            "parentUid" : "a060c7bfdfb43deddfefbf019049ea6e",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037967,
+              "stop" : 1613670037967,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "a060c7bfdfb43deddfefbf019049ea6e"
+        }, {
+          "name" : "JsResultTest$Failure$Constructors",
+          "children" : [ {
+            "name" : "Testing the constructor of the Failure class with path and one error description",
+            "uid" : "cac790094ad330d9",
+            "parentUid" : "34b396feaa4bd58591a76964d51be755",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037970,
+              "stop" : 1613670037971,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing the constructor of the Failure class with path and errors description",
+            "uid" : "3bda1784db6729aa",
+            "parentUid" : "34b396feaa4bd58591a76964d51be755",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037972,
+              "stop" : 1613670037973,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing the constructor of the Failure class with only error description",
+            "uid" : "40a46bf079e2e29d",
+            "parentUid" : "34b396feaa4bd58591a76964d51be755",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037975,
+              "stop" : 1613670037976,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing the constructor of the Failure class without parameters",
+            "uid" : "59bd6fbc12c1a9eb",
+            "parentUid" : "34b396feaa4bd58591a76964d51be755",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037984,
+              "stop" : 1613670037984,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "34b396feaa4bd58591a76964d51be755"
+        }, {
+          "name" : "JsErrorTest",
+          "children" : [ {
+            "name" : "Testing 'equals contract' of the NumberFormat class",
+            "uid" : "84073f720f35ac74",
+            "parentUid" : "f21f903ac717d167d6ada63372f15cf3",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037987,
+              "stop" : 1613670037987,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing 'equals contract' of the InvalidType class",
+            "uid" : "c848348ede1df767",
+            "parentUid" : "f21f903ac717d167d6ada63372f15cf3",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670037988,
+              "stop" : 1613670037988,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "f21f903ac717d167d6ada63372f15cf3"
+        } ],
+        "uid" : "7955baf0b4ef3c968995ec5b80d9746f"
+      }, {
+        "name" : "RequiredPathReaderTest$FromJsLookup",
+        "children" : [ {
+          "name" : "Testing 'required' function (an attribute is not found, invalid type)",
+          "uid" : "42cee51731dd0298",
+          "parentUid" : "9b1f7a833d39fcbe8b73b998c1d30675",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038003,
+            "stop" : 1613670038006,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'required' function (an attribute is not found)",
+          "uid" : "6c2122223a03cb06",
+          "parentUid" : "9b1f7a833d39fcbe8b73b998c1d30675",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038007,
+            "stop" : 1613670038008,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'required' function (an attribute is found)",
+          "uid" : "2c6592fb009c00f0",
+          "parentUid" : "9b1f7a833d39fcbe8b73b998c1d30675",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038009,
+            "stop" : 1613670038010,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9b1f7a833d39fcbe8b73b998c1d30675"
+      }, {
+        "name" : "RequiredPathReaderTest$FromJsValue",
+        "children" : [ {
+          "name" : "Testing 'required' function (an attribute is not found, invalid type)",
+          "uid" : "8e738f422813c759",
+          "parentUid" : "46930449ce60e1b2f480020d05579c31",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038012,
+            "stop" : 1613670038013,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'required' function (an attribute is not found)",
+          "uid" : "e9bc32649a2bccfd",
+          "parentUid" : "46930449ce60e1b2f480020d05579c31",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038014,
+            "stop" : 1613670038015,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'required' function (an attribute is found)",
+          "uid" : "eaeb4b0326ca093e",
+          "parentUid" : "46930449ce60e1b2f480020d05579c31",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038018,
+            "stop" : 1613670038019,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "46930449ce60e1b2f480020d05579c31"
+      }, {
+        "name" : "WithDefaultPathReaderTest$FromJsLookup",
+        "children" : [ {
+          "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)",
+          "uid" : "ad7eda11e6f9beb2",
+          "parentUid" : "3645d4843bc574644ada279eed7128fb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038031,
+            "stop" : 1613670038033,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)",
+          "uid" : "65687b7c8009575e",
+          "parentUid" : "3645d4843bc574644ada279eed7128fb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038034,
+            "stop" : 1613670038035,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)",
+          "uid" : "6e3158a364440bd5",
+          "parentUid" : "3645d4843bc574644ada279eed7128fb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038036,
+            "stop" : 1613670038037,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is found)",
+          "uid" : "b303bb35756ae5a1",
+          "parentUid" : "3645d4843bc574644ada279eed7128fb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038039,
+            "stop" : 1613670038040,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3645d4843bc574644ada279eed7128fb"
+      }, {
+        "name" : "WithDefaultPathReaderTest$FromJsValue",
+        "children" : [ {
+          "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)",
+          "uid" : "7944d6cd351c58fe",
+          "parentUid" : "0bafc0fd33036960ba2c6174a31c7647",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038043,
+            "stop" : 1613670038043,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)",
+          "uid" : "4282e9e8e86e8230",
+          "parentUid" : "0bafc0fd33036960ba2c6174a31c7647",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038046,
+            "stop" : 1613670038046,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)",
+          "uid" : "d0f471dc1f4b5b56",
+          "parentUid" : "0bafc0fd33036960ba2c6174a31c7647",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038048,
+            "stop" : 1613670038049,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'withDefault' function (an attribute is found)",
+          "uid" : "98eda6517e2ca6e7",
+          "parentUid" : "0bafc0fd33036960ba2c6174a31c7647",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038050,
+            "stop" : 1613670038051,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0bafc0fd33036960ba2c6174a31c7647"
+      } ],
+      "uid" : "61304551b88a8a0aa77da2b9ec97e948"
+    }, {
+      "name" : "value",
+      "children" : [ {
+        "name" : "JsArrayTest",
+        "children" : [ {
+          "name" : "Testing 'equals contract' of the JsString class",
+          "uid" : "313d474fc27863c8",
+          "parentUid" : "cae23fadab3f48d5c0d67464a453475b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038054,
+            "stop" : 1613670038055,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing JsArray class without data",
+          "uid" : "1b07c94b025f6e1e",
+          "parentUid" : "cae23fadab3f48d5c0d67464a453475b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038056,
+            "stop" : 1613670038057,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing JsArray class",
+          "uid" : "f3fdbee673fee404",
+          "parentUid" : "cae23fadab3f48d5c0d67464a453475b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038059,
+            "stop" : 1613670038059,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsArray class",
+          "uid" : "70c9bf502e6b102f",
+          "parentUid" : "cae23fadab3f48d5c0d67464a453475b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038060,
+            "stop" : 1613670038061,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cae23fadab3f48d5c0d67464a453475b"
+      }, {
+        "name" : "extension.JsValueExtensionTest$Lookup",
+        "children" : [ {
+          "name" : "testing 'lookup' function (an attribute by index is found)",
+          "uid" : "87edcc9b42e3d427",
+          "parentUid" : "1ef34abf54260d83f0c6550a71d50373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038064,
+            "stop" : 1613670038064,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testing 'lookup' function (an attribute by name is found)",
+          "uid" : "da9f9cf0af42797a",
+          "parentUid" : "1ef34abf54260d83f0c6550a71d50373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038066,
+            "stop" : 1613670038067,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testing 'lookup' function (an attribute by name is not found)",
+          "uid" : "2a58c3cd049d372e",
+          "parentUid" : "1ef34abf54260d83f0c6550a71d50373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038068,
+            "stop" : 1613670038069,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testing 'lookup' function (an attribute by index is not found)",
+          "uid" : "8d2d6816e16a2774",
+          "parentUid" : "1ef34abf54260d83f0c6550a71d50373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038071,
+            "stop" : 1613670038072,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testing 'lookup' function (an attribute by name is not found, node is invalid type)",
+          "uid" : "fb12858078dbbe0d",
+          "parentUid" : "1ef34abf54260d83f0c6550a71d50373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038073,
+            "stop" : 1613670038074,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testing 'lookup' function (an attribute by index is not found, node is invalid type)",
+          "uid" : "a21d517df3c421b",
+          "parentUid" : "1ef34abf54260d83f0c6550a71d50373",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038075,
+            "stop" : 1613670038075,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "extension.JsValueExtensionTest$Lookup"
+      }, {
+        "name" : "JsBooleanTest",
+        "children" : [ {
+          "name" : "Testing inner state of the JsBoolean class",
+          "uid" : "57669f4cba97df39",
+          "parentUid" : "f22a7c6fd0108199d3e7e49bb53189b8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038079,
+            "stop" : 1613670038081,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsBoolean class",
+          "uid" : "c75a50d48ede8ced",
+          "parentUid" : "f22a7c6fd0108199d3e7e49bb53189b8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038082,
+            "stop" : 1613670038082,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f22a7c6fd0108199d3e7e49bb53189b8"
+      }, {
+        "name" : "JsStringTest",
+        "children" : [ {
+          "name" : "Testing 'equals contract' of the JsString class",
+          "uid" : "64b5898431a2dbf9",
+          "parentUid" : "8955a92236402049d651abd4d6a9860f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038086,
+            "stop" : 1613670038087,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsString class",
+          "uid" : "1304e3b0df437b82",
+          "parentUid" : "8955a92236402049d651abd4d6a9860f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038088,
+            "stop" : 1613670038089,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8955a92236402049d651abd4d6a9860f"
+      }, {
+        "name" : "JsObjectTest",
+        "children" : [ {
+          "name" : "Testing 'equals contract' of the JsObject class",
+          "uid" : "8abf5673b2fa09f",
+          "parentUid" : "4ad42e6487d2b381f66d9199b27f38b7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038099,
+            "stop" : 1613670038101,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsObject class",
+          "uid" : "e0db5448e503de40",
+          "parentUid" : "4ad42e6487d2b381f66d9199b27f38b7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038103,
+            "stop" : 1613670038104,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing JsObject class without attributes",
+          "uid" : "106b0025aa830195",
+          "parentUid" : "4ad42e6487d2b381f66d9199b27f38b7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038106,
+            "stop" : 1613670038111,
+            "duration" : 5
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing JsObject class",
+          "uid" : "9b6c18495780cec6",
+          "parentUid" : "4ad42e6487d2b381f66d9199b27f38b7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038114,
+            "stop" : 1613670038115,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4ad42e6487d2b381f66d9199b27f38b7"
+      }, {
+        "name" : "JsNumberTest",
+        "children" : [ {
+          "name" : "Testing the internal representation as a real number",
+          "uid" : "f0c9df83bff6c80e",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038120,
+            "stop" : 1613670038120,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as a real number",
+          "uid" : "f8d557802f34a07a",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038122,
+            "stop" : 1613670038124,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as a real number",
+          "uid" : "d1dd2b18a14a0f17",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038126,
+            "stop" : 1613670038133,
+            "duration" : 7
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as a real number",
+          "uid" : "134b10b16d8cd89f",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038134,
+            "stop" : 1613670038137,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as a real number",
+          "uid" : "49ce86a389494975",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038139,
+            "stop" : 1613670038143,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as a real number",
+          "uid" : "7891292964ce880d",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038146,
+            "stop" : 1613670038146,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as a real number",
+          "uid" : "c785de3fd29dbb16",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038147,
+            "stop" : 1613670038148,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as a real number",
+          "uid" : "abb1769b814486c7",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038150,
+            "stop" : 1613670038150,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for Int type",
+          "uid" : "b02045b9530dd02f",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038152,
+            "stop" : 1613670038153,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as an integer number",
+          "uid" : "8b163f6a16ceb680",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038156,
+            "stop" : 1613670038157,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as an integer number",
+          "uid" : "302165a80be9727b",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038158,
+            "stop" : 1613670038158,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as an integer number",
+          "uid" : "f3c9f761cf17077",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038159,
+            "stop" : 1613670038159,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as an integer number",
+          "uid" : "f60d7768abc7f78",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038161,
+            "stop" : 1613670038161,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as an integer number",
+          "uid" : "7c28e02b90d7ff9e",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038165,
+            "stop" : 1613670038165,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing the internal representation as an integer number",
+          "uid" : "10058f836fd7d322",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038167,
+            "stop" : 1613670038167,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for Byte type",
+          "uid" : "43d4bdf109a557ae",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038169,
+            "stop" : 1613670038170,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'equals contract' of the JsNumber class",
+          "uid" : "69f08382fa821ef4",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038172,
+            "stop" : 1613670038172,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsNumber class",
+          "uid" : "14d461e31295845e",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038177,
+            "stop" : 1613670038177,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsNumber class",
+          "uid" : "dcd9b3e27387ce03",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038178,
+            "stop" : 1613670038180,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsNumber class",
+          "uid" : "ccd090f3e54e3dca",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038181,
+            "stop" : 1613670038181,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsNumber class",
+          "uid" : "5a3a567d2bb93cab",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038183,
+            "stop" : 1613670038183,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsNumber class",
+          "uid" : "5ec14f4d76983e9",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038186,
+            "stop" : 1613670038186,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'toString' function of the JsNumber class",
+          "uid" : "390b68f2630a3b30",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038187,
+            "stop" : 1613670038188,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "62cfa95b85d9edc",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038196,
+            "stop" : 1613670038196,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "2c98fad5e54209d5",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038198,
+            "stop" : 1613670038199,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "4e141af4e496dc21",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038200,
+            "stop" : 1613670038201,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "1c1acbf16fbf81e4",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038202,
+            "stop" : 1613670038203,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "e953fecb3ee92ce5",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038204,
+            "stop" : 1613670038204,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "1454f13629c92d9a",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038205,
+            "stop" : 1613670038206,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "1407c10707b115ea",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038207,
+            "stop" : 1613670038207,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "fee660583d8ada29",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038209,
+            "stop" : 1613670038209,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "eddf864f1970b097",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038211,
+            "stop" : 1613670038211,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for String type",
+          "uid" : "15267f6ac0b5d623",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038219,
+            "stop" : 1613670038219,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for Long type",
+          "uid" : "cdbc1560baebc609",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038231,
+            "stop" : 1613670038231,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing 'valueOf' function of the JsNumber class for Short type",
+          "uid" : "464ee345050fce72",
+          "parentUid" : "b69068d6b4ab24f97ae204ebeb429b3b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038239,
+            "stop" : 1613670038240,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b69068d6b4ab24f97ae204ebeb429b3b"
+      }, {
+        "name" : "JsNullTest",
+        "children" : [ {
+          "name" : "Testing 'toString' function of the JsNull class",
+          "uid" : "f1b479f7e3df04ab",
+          "parentUid" : "a086c676589594b8722d15c540d0a554",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038242,
+            "stop" : 1613670038243,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a086c676589594b8722d15c540d0a554"
+      } ],
+      "uid" : "74e2cc062dfbe5de683878c31238851c"
+    }, {
+      "name" : "writer",
+      "children" : [ {
+        "name" : "extension",
+        "children" : [ {
+          "name" : "JsWriterExtensionTest$WriteRequiredAttribute",
+          "children" : [ {
+            "name" : "Testing of a write of a required attribute",
+            "uid" : "cf9c201c185ca0c5",
+            "parentUid" : "21dc04e172aa448e31b5ce9a18c8e56c",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038274,
+              "stop" : 1613670038275,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "21dc04e172aa448e31b5ce9a18c8e56c"
+        }, {
+          "name" : "JsWriterExtensionTest$WriteOptionalAttribute",
+          "children" : [ {
+            "name" : "Testing of a write of an optional attribute",
+            "uid" : "5e958f52b0e0280d",
+            "parentUid" : "7f349f3f004fa9d01647b20472dac27b",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038283,
+              "stop" : 1613670038285,
+              "duration" : 2
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of a write of an optional attribute (a value of an attribute is null)",
+            "uid" : "567eb9d628193c3a",
+            "parentUid" : "7f349f3f004fa9d01647b20472dac27b",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038286,
+              "stop" : 1613670038286,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "7f349f3f004fa9d01647b20472dac27b"
+        }, {
+          "name" : "JsWriterExtensionTest$WriteNullableAttribute",
+          "children" : [ {
+            "name" : "Testing of a write of a nullable attribute (a value of an attribute is null)",
+            "uid" : "ab55b3c27b7de8f7",
+            "parentUid" : "ee2281d87cf5e4dc0a1e9b6044333a37",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038290,
+              "stop" : 1613670038291,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of a write of a nullable attribute",
+            "uid" : "5480fb20e8295c80",
+            "parentUid" : "ee2281d87cf5e4dc0a1e9b6044333a37",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038292,
+              "stop" : 1613670038293,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "ee2281d87cf5e4dc0a1e9b6044333a37"
+        }, {
+          "name" : "JsWriterExtensionTest$WriteTraversableAttribute",
+          "children" : [ {
+            "name" : "Testing of a write of a traversable attribute (attribute is empty)",
+            "uid" : "1f20c86bfcfb7e44",
+            "parentUid" : "9c6caede4ea096700c20e444e7811264",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038297,
+              "stop" : 1613670038297,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of a write of a traversable attribute",
+            "uid" : "6e368ff368189574",
+            "parentUid" : "9c6caede4ea096700c20e444e7811264",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038299,
+              "stop" : 1613670038299,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "9c6caede4ea096700c20e444e7811264"
+        }, {
+          "name" : "JsWriterExtensionTest$WriteOptionalTraversableAttribute",
+          "children" : [ {
+            "name" : "Testing of a write of a optional traversable attribute",
+            "uid" : "997cf7e8a3d33c77",
+            "parentUid" : "886e503060e5223e71553cb183934114",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038303,
+              "stop" : 1613670038304,
+              "duration" : 1
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          }, {
+            "name" : "Testing of a write of a optional traversable attribute (attribute is empty)",
+            "uid" : "cdb5e081e77aedb9",
+            "parentUid" : "886e503060e5223e71553cb183934114",
+            "status" : "passed",
+            "time" : {
+              "start" : 1613670038305,
+              "stop" : 1613670038305,
+              "duration" : 0
+            },
+            "flaky" : false,
+            "newFailed" : false,
+            "parameters" : [ ]
+          } ],
+          "uid" : "886e503060e5223e71553cb183934114"
+        } ],
+        "uid" : "45404a5dd3727642763b4b5dc9f3ae72"
+      }, {
+        "name" : "base.BasePrimitiveWriterTest",
+        "children" : [ {
+          "name" : "Testing writer for 'String' type",
+          "uid" : "15b2203307f8fde5",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038308,
+            "stop" : 1613670038309,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing writer for 'Byte' type",
+          "uid" : "aa518aaa910157c8",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038310,
+            "stop" : 1613670038310,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing writer for 'Short' type",
+          "uid" : "8cd936ac9bfa8ee1",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038311,
+            "stop" : 1613670038312,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing writer for 'BigDecimal' (stripTrailingZeros is true)",
+          "uid" : "62b3d8a12550afaa",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038313,
+            "stop" : 1613670038315,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing writer for 'Boolean' type",
+          "uid" : "c57b74a1515c16fd",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038319,
+            "stop" : 1613670038320,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing writer for 'Boolean' type",
+          "uid" : "65a6dce5857dcaea",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038323,
+            "stop" : 1613670038324,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing writer for 'Int' type",
+          "uid" : "d5d85390ac005e80",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038326,
+            "stop" : 1613670038327,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing writer for 'BigDecimal' (default configuration)",
+          "uid" : "85ac19f03cb89d20",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038328,
+            "stop" : 1613670038329,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Testing writer for 'Long' type",
+          "uid" : "653efe399c3b47b6",
+          "parentUid" : "4f11dbbdb3284d7e7c22c3e83c6a6510",
+          "status" : "passed",
+          "time" : {
+            "start" : 1613670038330,
+            "stop" : 1613670038330,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "base.BasePrimitiveWriterTest"
+      } ],
+      "uid" : "7c557be2db2772a9ca96b86b8a9f949a"
+    } ],
+    "uid" : "io.github.airflux"
+  } ],
+  "name" : "packages"
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "3bda1784db6729aa",
+  "name" : "Testing the constructor of the Failure class with path and errors description()",
+  "fullName" : "io.github.airflux.reader.result.JsResultTest$Failure$Constructors.Testing the constructor of the Failure class with path and errors description",
+  "historyId" : "b978fab3b6cfed562b9585f6b4f16f99",
+  "time" : {
+    "start" : 1613670037972,
+    "stop" : 1613670037973,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Failure$Constructors"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Failure$Constructors"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing the constructor of the Failure class with path and errors description"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.result.JsResultTest.Failure.Constructors"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bda1784db6729aa.json",
+  "parameterValues" : [ ]
+}

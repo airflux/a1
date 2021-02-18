@@ -1,0 +1,57 @@
+{
+  "uid" : "c848348ede1df767",
+  "name" : "Testing 'equals contract' of the InvalidType class()",
+  "fullName" : "io.github.airflux.reader.result.JsErrorTest.Testing 'equals contract' of the InvalidType class",
+  "historyId" : "2068a75bea3f48bacb8b72e514fb4ba4",
+  "time" : {
+    "start" : 1613670037988,
+    "stop" : 1613670037988,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.result.JsErrorTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.result.JsErrorTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'equals contract' of the InvalidType class"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.result.JsErrorTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c848348ede1df767.json",
+  "parameterValues" : [ ]
+}

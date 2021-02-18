@@ -1,0 +1,114 @@
+{
+  "total" : 60,
+  "items" : [ {
+    "uid" : "b1d7b83fae8b8293169c005beefbca5b",
+    "name" : "io.github.airflux.value.JsNumberTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 35,
+      "unknown" : 0,
+      "total" : 35
+    }
+  }, {
+    "uid" : "d24ebed66d9a00ef7e390fdce5b44419",
+    "name" : "io.github.airflux.writer.base.BasePrimitiveWriterTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "0653c1ef3d81d73c5550e1d8aac880af",
+    "name" : "io.github.airflux.reader.validator.JsValidatorTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "f1dcfaa2e72d4c96c318bfc9b64f0f66",
+    "name" : "io.github.airflux.reader.validator.base.StringValidatorsTest.MinLength",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "adb6545912083107067ef7a2ae808336",
+    "name" : "io.github.airflux.reader.validator.base.StringValidatorsTest.MaxLength",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "c502e560866161e907e9184a8c3e53d9",
+    "name" : "io.github.airflux.reader.result.JsResultTest.Success",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "fed42d00dd7dadff5ff9056bb76b9f1f",
+    "name" : "io.github.airflux.reader.result.JsResultTest.Failure",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "11ac0a698e3643adef6ce76a428c1488",
+    "name" : "io.github.airflux.value.extension.JsValueExtensionTest.Lookup",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "1663670667c6dfc43db46884a5018a23",
+    "name" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.ByteReader",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "19cb33d7c139fc2624d7952abd456182",
+    "name" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.ShortReader",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "1987c3520f20b437",
+  "name" : "Testing 'flatMap' function of the Success class()",
+  "fullName" : "io.github.airflux.reader.result.JsResultTest$Success.Testing 'flatMap' function of the Success class",
+  "historyId" : "585a862b0744e2e0c4e67e3b66aefa7",
+  "time" : {
+    "start" : 1613670037917,
+    "stop" : 1613670037923,
+    "duration" : 6
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Success"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Success"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'flatMap' function of the Success class"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.result.JsResultTest.Success"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1987c3520f20b437.json",
+  "parameterValues" : [ ]
+}

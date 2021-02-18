@@ -1,0 +1,57 @@
+{
+  "uid" : "feae3a23c521956",
+  "name" : "Testing 'set' function (array is empty)()",
+  "fullName" : "io.github.airflux.reader.TraversablePathReaderTest$SetReader.Testing 'set' function (array is empty)",
+  "historyId" : "9e7a0cf53342d0ab89f930f6cd325696",
+  "time" : {
+    "start" : 1613670037596,
+    "stop" : 1613670037604,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.TraversablePathReaderTest$SetReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.TraversablePathReaderTest$SetReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'set' function (array is empty)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.TraversablePathReaderTest.SetReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "feae3a23c521956.json",
+  "parameterValues" : [ ]
+}

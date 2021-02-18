@@ -1,0 +1,57 @@
+{
+  "uid" : "c5f5daa688a95f8c",
+  "name" : "min value",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ShortReader.Testing reader for 'Short' type",
+  "historyId" : "5273cf1f02d6d577a8c9aa7b388ae7a5",
+  "time" : {
+    "start" : 1613670037825,
+    "stop" : 1613670037827,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ShortReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ShortReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'Short' type"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.ShortReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5f5daa688a95f8c.json",
+  "parameterValues" : [ ]
+}

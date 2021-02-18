@@ -1,0 +1,57 @@
+{
+  "uid" : "15b2203307f8fde5",
+  "name" : "Testing writer for 'String' type()",
+  "fullName" : "io.github.airflux.writer.base.BasePrimitiveWriterTest.Testing writer for 'String' type",
+  "historyId" : "d7d3ce40cb99372231bd5e2d4d34562a",
+  "time" : {
+    "start" : 1613670038308,
+    "stop" : 1613670038309,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.writer.base.BasePrimitiveWriterTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.writer.base.BasePrimitiveWriterTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing writer for 'String' type"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.writer.base.BasePrimitiveWriterTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15b2203307f8fde5.json",
+  "parameterValues" : [ ]
+}

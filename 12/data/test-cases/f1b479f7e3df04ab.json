@@ -1,0 +1,57 @@
+{
+  "uid" : "f1b479f7e3df04ab",
+  "name" : "Testing 'toString' function of the JsNull class()",
+  "fullName" : "io.github.airflux.value.JsNullTest.Testing 'toString' function of the JsNull class",
+  "historyId" : "6890be87a94632ab7a4750f072dd721b",
+  "time" : {
+    "start" : 1613670038242,
+    "stop" : 1613670038243,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.value.JsNullTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.value.JsNullTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'toString' function of the JsNull class"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.value.JsNullTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1b479f7e3df04ab.json",
+  "parameterValues" : [ ]
+}

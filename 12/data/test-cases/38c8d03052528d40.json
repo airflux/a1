@@ -1,0 +1,57 @@
+{
+  "uid" : "38c8d03052528d40",
+  "name" : "Testing the constructor of the JsPath class without parameters()",
+  "fullName" : "io.github.airflux.path.JsPathTest$Constructors.Testing the constructor of the JsPath class without parameters",
+  "historyId" : "b5c024e1bde23c29541e214430b192aa",
+  "time" : {
+    "start" : 1613670036698,
+    "stop" : 1613670036699,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.path.JsPathTest$Constructors"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.path.JsPathTest$Constructors"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing the constructor of the JsPath class without parameters"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.path.JsPathTest.Constructors"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38c8d03052528d40.json",
+  "parameterValues" : [ ]
+}

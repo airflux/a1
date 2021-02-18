@@ -1,0 +1,57 @@
+{
+  "uid" : "567eb9d628193c3a",
+  "name" : "Testing of a write of an optional attribute (a value of an attribute is null)()",
+  "fullName" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteOptionalAttribute.Testing of a write of an optional attribute (a value of an attribute is null)",
+  "historyId" : "7557794c16b5c8d6910c9c6398494ad7",
+  "time" : {
+    "start" : 1613670038286,
+    "stop" : 1613670038286,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteOptionalAttribute"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteOptionalAttribute"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing of a write of an optional attribute (a value of an attribute is null)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest.WriteOptionalAttribute"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "567eb9d628193c3a.json",
+  "parameterValues" : [ ]
+}
