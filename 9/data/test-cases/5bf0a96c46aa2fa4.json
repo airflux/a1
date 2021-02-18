@@ -1,0 +1,57 @@
+{
+  "uid" : "5bf0a96c46aa2fa4",
+  "name" : "Testing reader for 'Long' type (reading a value of an invalid format)()",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$LongReader.Testing reader for 'Long' type (reading a value of an invalid format)",
+  "historyId" : "f921036de477cade8f148d164d881367",
+  "time" : {
+    "start" : 1613668696681,
+    "stop" : 1613668696685,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$LongReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$LongReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'Long' type (reading a value of an invalid format)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.LongReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5bf0a96c46aa2fa4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "37aad64b2f465ee5",
+  "name" : "testing 'lookup' function (an attribute by name is not found, node is invalid type)()",
+  "fullName" : "io.github.airflux.value.extension.JsValueExtensionTest$Lookup.testing 'lookup' function (an attribute by name is not found, node is invalid type)",
+  "historyId" : "3fb80f78302a6b6054d58d04ce527d1e",
+  "time" : {
+    "start" : 1613668696995,
+    "stop" : 1613668696997,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.value.extension.JsValueExtensionTest$Lookup"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.value.extension.JsValueExtensionTest$Lookup"
+  }, {
+    "name" : "testMethod",
+    "value" : "testing 'lookup' function (an attribute by name is not found, node is invalid type)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.value.extension.JsValueExtensionTest.Lookup"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37aad64b2f465ee5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "c99f63e8e5f16987",
+  "name" : "Testing 'repath' function in companion object()",
+  "fullName" : "io.github.airflux.path.JsPathTest$CompanionObject.Testing 'repath' function in companion object",
+  "historyId" : "70fe9cac8e54584a961a38284890ffe9",
+  "time" : {
+    "start" : 1613668694989,
+    "stop" : 1613668694999,
+    "duration" : 10
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.path.JsPathTest$CompanionObject"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.path.JsPathTest$CompanionObject"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'repath' function in companion object"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.path.JsPathTest.CompanionObject"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c99f63e8e5f16987.json",
+  "parameterValues" : [ ]
+}

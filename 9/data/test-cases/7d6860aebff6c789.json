@@ -1,0 +1,57 @@
+{
+  "uid" : "7d6860aebff6c789",
+  "name" : "Testing basic validator of the 'minItems' (a count of elements is more than the minimum)()",
+  "fullName" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MinItems.Testing basic validator of the 'minItems' (a count of elements is more than the minimum)",
+  "historyId" : "a1f0e8dd006e28142ad1bee91c378157",
+  "time" : {
+    "start" : 1613668695666,
+    "stop" : 1613668695814,
+    "duration" : 148
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MinItems"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MinItems"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'minItems' (a count of elements is more than the minimum)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest.MinItems"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d6860aebff6c789.json",
+  "parameterValues" : [ ]
+}

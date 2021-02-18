@@ -1,0 +1,57 @@
+{
+  "uid" : "36a9c1fad2878e9d",
+  "name" : "Testing 'onFailure' function of the Failure class()",
+  "fullName" : "io.github.airflux.reader.result.JsResultTest$Failure.Testing 'onFailure' function of the Failure class",
+  "historyId" : "824121911edf131292e34f40f8394903",
+  "time" : {
+    "start" : 1613668696813,
+    "stop" : 1613668696815,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Failure"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Failure"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'onFailure' function of the Failure class"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.result.JsResultTest.Failure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36a9c1fad2878e9d.json",
+  "parameterValues" : [ ]
+}

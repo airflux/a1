@@ -1,0 +1,57 @@
+{
+  "uid" : "3785fc7247d181fc",
+  "name" : "Testing of a write of a traversable attribute()",
+  "fullName" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteTraversableAttribute.Testing of a write of a traversable attribute",
+  "historyId" : "487d177d9e8e0b6947f546147e3dcb5a",
+  "time" : {
+    "start" : 1613668697244,
+    "stop" : 1613668697244,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteTraversableAttribute"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteTraversableAttribute"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing of a write of a traversable attribute"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest.WriteTraversableAttribute"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3785fc7247d181fc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "b499935cccd0edbb",
+  "name" : "Testing reader for 'Byte' type (reading a value of an invalid format)()",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ByteReader.Testing reader for 'Byte' type (reading a value of an invalid format)",
+  "historyId" : "b2e2abada3c7479928ee54c218317cec",
+  "time" : {
+    "start" : 1613668696525,
+    "stop" : 1613668696568,
+    "duration" : 43
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ByteReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ByteReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'Byte' type (reading a value of an invalid format)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.ByteReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b499935cccd0edbb.json",
+  "parameterValues" : [ ]
+}

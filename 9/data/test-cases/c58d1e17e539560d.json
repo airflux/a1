@@ -1,0 +1,57 @@
+{
+  "uid" : "c58d1e17e539560d",
+  "name" : "Testing reader for 'Short' type (reading a value that more the allowed range)()",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ShortReader.Testing reader for 'Short' type (reading a value that more the allowed range)",
+  "historyId" : "bc80bbf95dfbd4b1bc05cf4a1272988a",
+  "time" : {
+    "start" : 1613668696633,
+    "stop" : 1613668696634,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ShortReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ShortReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'Short' type (reading a value that more the allowed range)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.ShortReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c58d1e17e539560d.json",
+  "parameterValues" : [ ]
+}

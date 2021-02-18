@@ -1,0 +1,57 @@
+{
+  "uid" : "537b7509669211fb",
+  "name" : "Testing 'orElse' function of the Success class()",
+  "fullName" : "io.github.airflux.reader.result.JsResultTest$Success.Testing 'orElse' function of the Success class",
+  "historyId" : "c88f0a1e313493fd02b2c288b88b7b18",
+  "time" : {
+    "start" : 1613668696746,
+    "stop" : 1613668696749,
+    "duration" : 3
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Success"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Success"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'orElse' function of the Success class"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.result.JsResultTest.Success"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "537b7509669211fb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "af05c65d35a16d21",
+  "name" : "Testing extension-function 'readAsBoolean' (invalid type)()",
+  "fullName" : "io.github.airflux.reader.extension.ReadAsExtensionTest$ReadAsBoolean.Testing extension-function 'readAsBoolean' (invalid type)",
+  "historyId" : "6b97c9eac978631f8fe469b9694e0c01",
+  "time" : {
+    "start" : 1613668696400,
+    "stop" : 1613668696406,
+    "duration" : 6
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.extension.ReadAsExtensionTest$ReadAsBoolean"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.extension.ReadAsExtensionTest$ReadAsBoolean"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing extension-function 'readAsBoolean' (invalid type)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.extension.ReadAsExtensionTest.ReadAsBoolean"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af05c65d35a16d21.json",
+  "parameterValues" : [ ]
+}

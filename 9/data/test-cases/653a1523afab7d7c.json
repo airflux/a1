@@ -1,0 +1,57 @@
+{
+  "uid" : "653a1523afab7d7c",
+  "name" : "Testing basic validator of the 'gt' (the number is less than a expected value)()",
+  "fullName" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Gt.Testing basic validator of the 'gt' (the number is less than a expected value)",
+  "historyId" : "c8b5470ea2e6fc7aab05ddb75e446ee7",
+  "time" : {
+    "start" : 1613668695266,
+    "stop" : 1613668695270,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Gt"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Gt"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'gt' (the number is less than a expected value)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest.Gt"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "653a1523afab7d7c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "689eb8f507f7411c",
+  "name" : "Testing basic validator of the 'pattern' (a value of a string is matching to the pattern)()",
+  "fullName" : "io.github.airflux.reader.validator.base.StringValidatorsTest$Pattern.Testing basic validator of the 'pattern' (a value of a string is matching to the pattern)",
+  "historyId" : "ce7f3f3df3d89b449c1bc2bbbfe732e0",
+  "time" : {
+    "start" : 1613668695624,
+    "stop" : 1613668695626,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$Pattern"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$Pattern"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'pattern' (a value of a string is matching to the pattern)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest.Pattern"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "689eb8f507f7411c.json",
+  "parameterValues" : [ ]
+}

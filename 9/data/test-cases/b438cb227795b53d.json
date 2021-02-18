@@ -1,0 +1,57 @@
+{
+  "uid" : "b438cb227795b53d",
+  "name" : "Testing 'map' function of the Success class()",
+  "fullName" : "io.github.airflux.reader.result.JsResultTest$Success.Testing 'map' function of the Success class",
+  "historyId" : "5cb2a4d8aa4dd8d23f28df945fc5cef3",
+  "time" : {
+    "start" : 1613668696778,
+    "stop" : 1613668696787,
+    "duration" : 9
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Success"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.result.JsResultTest$Success"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'map' function of the Success class"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.result.JsResultTest.Success"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b438cb227795b53d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "f8a6832a7a84526e",
+  "name" : "Testing basic validator of the 'isA' (a value of a string is not a number but an empty string)()",
+  "fullName" : "io.github.airflux.reader.validator.base.StringValidatorsTest$IsA.Testing basic validator of the 'isA' (a value of a string is not a number but an empty string)",
+  "historyId" : "9ca26d478b8f38ebb1552e94ec1b90bc",
+  "time" : {
+    "start" : 1613668695653,
+    "stop" : 1613668695654,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$IsA"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$IsA"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'isA' (a value of a string is not a number but an empty string)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest.IsA"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8a6832a7a84526e.json",
+  "parameterValues" : [ ]
+}

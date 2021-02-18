@@ -1,0 +1,57 @@
+{
+  "uid" : "ee36239be2cfdbee",
+  "name" : "Testing 'equals contract' of the NumberFormat class()",
+  "fullName" : "io.github.airflux.reader.result.JsErrorTest.Testing 'equals contract' of the NumberFormat class",
+  "historyId" : "b90a6569a3a3b8be50ddd433c7c5352e",
+  "time" : {
+    "start" : 1613668696844,
+    "stop" : 1613668696845,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.result.JsErrorTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.result.JsErrorTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'equals contract' of the NumberFormat class"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.result.JsErrorTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee36239be2cfdbee.json",
+  "parameterValues" : [ ]
+}

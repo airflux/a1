@@ -1,0 +1,57 @@
+{
+  "uid" : "dc37b545dfd5f6bc",
+  "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is not blank)()",
+  "fullName" : "io.github.airflux.reader.validator.base.StringValidatorsTest$IsNotBlank.Testing basic validator of the 'isNotBlank' (a value of a string is not blank)",
+  "historyId" : "c8e9307365605abb8328cd23a83dba52",
+  "time" : {
+    "start" : 1613668695506,
+    "stop" : 1613668695577,
+    "duration" : 71
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$IsNotBlank"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$IsNotBlank"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'isNotBlank' (a value of a string is not blank)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest.IsNotBlank"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc37b545dfd5f6bc.json",
+  "parameterValues" : [ ]
+}

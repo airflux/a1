@@ -1,0 +1,57 @@
+{
+  "uid" : "d82e4322903c6d1d",
+  "name" : "Testing JsArray class without data()",
+  "fullName" : "io.github.airflux.value.JsArrayTest.Testing JsArray class without data",
+  "historyId" : "ab604826867e9df0d89d08d62bf82daf",
+  "time" : {
+    "start" : 1613668696953,
+    "stop" : 1613668696954,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az135-826"
+  }, {
+    "name" : "thread",
+    "value" : "4271@fv-az135-826.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.value.JsArrayTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.value.JsArrayTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing JsArray class without data"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.value.JsArrayTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d82e4322903c6d1d.json",
+  "parameterValues" : [ ]
+}
