@@ -1,0 +1,57 @@
+{
+  "uid" : "c11cfab8bd53a1f8",
+  "name" : "Testing basic validator of the 'maxLength' (a value of a string is less than the max allowed length)()",
+  "fullName" : "io.github.airflux.reader.validator.base.StringValidatorsTest$MaxLength.Testing basic validator of the 'maxLength' (a value of a string is less than the max allowed length)",
+  "historyId" : "4226fb204d97466e57f55472db31085d",
+  "time" : {
+    "start" : 1613666826901,
+    "stop" : 1613666826902,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$MaxLength"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest$MaxLength"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'maxLength' (a value of a string is less than the max allowed length)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.StringValidatorsTest.MaxLength"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c11cfab8bd53a1f8.json",
+  "parameterValues" : [ ]
+}

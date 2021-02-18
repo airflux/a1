@@ -1,0 +1,57 @@
+{
+  "uid" : "492fd4034e680d36",
+  "name" : "[2] true, false",
+  "fullName" : "io.github.airflux.reader.validator.JsValidatorTest.Testing of the logical operator 'or' of a validator",
+  "historyId" : "bfca2317ef3f80d04c3eebc433aaef0",
+  "time" : {
+    "start" : 1613666827409,
+    "stop" : 1613666827411,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.JsValidatorTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.JsValidatorTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing of the logical operator 'or' of a validator"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.JsValidatorTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "492fd4034e680d36.json",
+  "parameterValues" : [ ]
+}

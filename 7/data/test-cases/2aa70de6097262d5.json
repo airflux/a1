@@ -1,0 +1,57 @@
+{
+  "uid" : "2aa70de6097262d5",
+  "name" : "Testing basic validator of the 'ge' (the number is more than a expected value)()",
+  "fullName" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Ge.Testing basic validator of the 'ge' (the number is more than a expected value)",
+  "historyId" : "2710589bfd6fc01b588af04311ca0774",
+  "time" : {
+    "start" : 1613666826767,
+    "stop" : 1613666826767,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Ge"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Ge"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'ge' (the number is more than a expected value)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest.Ge"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2aa70de6097262d5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "4e72edd11516232a",
+  "name" : "Testing basic validator of the 'maxItems' (a count of elements is more than the maximum)()",
+  "fullName" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MaxItems.Testing basic validator of the 'maxItems' (a count of elements is more than the maximum)",
+  "historyId" : "6193f085803d82595f2e0629cd17e59",
+  "time" : {
+    "start" : 1613666827224,
+    "stop" : 1613666827224,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MaxItems"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MaxItems"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'maxItems' (a count of elements is more than the maximum)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest.MaxItems"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e72edd11516232a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "175420ebf019ae12",
+  "name" : "Testing basic validator of the 'le' (the number is equals to a expected value)()",
+  "fullName" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Le.Testing basic validator of the 'le' (the number is equals to a expected value)",
+  "historyId" : "c0aae91785b45771bb44ae4f873b08af",
+  "time" : {
+    "start" : 1613666826800,
+    "stop" : 1613666826804,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Le"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Le"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'le' (the number is equals to a expected value)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest.Le"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "175420ebf019ae12.json",
+  "parameterValues" : [ ]
+}

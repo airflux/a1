@@ -1,0 +1,57 @@
+{
+  "uid" : "cab20db683dc8f38",
+  "name" : "min value",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$IntReader.Testing reader for 'Int' type",
+  "historyId" : "615a798796ef65bc392807c261068e88",
+  "time" : {
+    "start" : 1613666827843,
+    "stop" : 1613666827845,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$IntReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$IntReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'Int' type"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.IntReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cab20db683dc8f38.json",
+  "parameterValues" : [ ]
+}

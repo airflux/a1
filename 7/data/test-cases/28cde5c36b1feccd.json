@@ -1,0 +1,57 @@
+{
+  "uid" : "28cde5c36b1feccd",
+  "name" : "Testing basic validator of the 'maxItems' (a collection is empty)()",
+  "fullName" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MaxItems.Testing basic validator of the 'maxItems' (a collection is empty)",
+  "historyId" : "255fe4c93f62f6d50a407a0fdab461cd",
+  "time" : {
+    "start" : 1613666827219,
+    "stop" : 1613666827222,
+    "duration" : 3
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MaxItems"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$MaxItems"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'maxItems' (a collection is empty)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest.MaxItems"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28cde5c36b1feccd.json",
+  "parameterValues" : [ ]
+}

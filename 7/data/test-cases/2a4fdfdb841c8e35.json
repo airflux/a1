@@ -1,0 +1,57 @@
+{
+  "uid" : "2a4fdfdb841c8e35",
+  "name" : "Testing 'valueOf' function of the JsNumber class for Long type()",
+  "fullName" : "io.github.airflux.value.JsNumberTest.Testing 'valueOf' function of the JsNumber class for Long type",
+  "historyId" : "b65d2571c1ae2683da8fe15c35ee2076",
+  "time" : {
+    "start" : 1613666828170,
+    "stop" : 1613666828170,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.value.JsNumberTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.value.JsNumberTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'valueOf' function of the JsNumber class for Long type"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.value.JsNumberTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a4fdfdb841c8e35.json",
+  "parameterValues" : [ ]
+}

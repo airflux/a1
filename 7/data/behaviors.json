@@ -1,0 +1,3138 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Testing 'toString' function of the JsPath class()",
+    "uid" : "a986a518f16343bf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826302,
+      "stop" : 1613666826414,
+      "duration" : 112
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'equals contract' of the JsPath class()",
+    "uid" : "b356d52fbf15e41b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826603,
+      "stop" : 1613666826606,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'repath' function in companion object()",
+    "uid" : "aa1f075ef7ba8e81",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826622,
+      "stop" : 1613666826629,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the constructor of the JsPath class with number parameter()",
+    "uid" : "401190c057e30d59",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826648,
+      "stop" : 1613666826651,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the constructor of the JsPath class with text parameter()",
+    "uid" : "af32a3f93f565f34",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826655,
+      "stop" : 1613666826656,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the constructor of the JsPath class without parameters()",
+    "uid" : "f5c78e61e32fdeb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826663,
+      "stop" : 1613666826671,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'min' (a number is more than the minimum)()",
+    "uid" : "784da1f11e8f885c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826681,
+      "stop" : 1613666826688,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'min' (a number is equal to the minimum)()",
+    "uid" : "3bd402e8c499c49d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826697,
+      "stop" : 1613666826698,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'min' (a number is less than the minimum)()",
+    "uid" : "cbb75a1c7fe50d8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826700,
+      "stop" : 1613666826702,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'max' (the number is more than the maximum)()",
+    "uid" : "7a42ab5bf934f756",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826713,
+      "stop" : 1613666826717,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'max' (the number is less than the maximum)()",
+    "uid" : "56ea7e3a4c8e04ed",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826719,
+      "stop" : 1613666826719,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'max' (the number is equal to the maximum)()",
+    "uid" : "9babc7ed789118ab",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826723,
+      "stop" : 1613666826724,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'eq' (the number is equals to a expected value)()",
+    "uid" : "ae11220e46a2be5c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826729,
+      "stop" : 1613666826731,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'eq' (the number is more than a expected value)()",
+    "uid" : "e35bea2e21247e41",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826732,
+      "stop" : 1613666826733,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'eq' (the number is less than a expected value)()",
+    "uid" : "e7d2f639d73af07b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826735,
+      "stop" : 1613666826735,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'ne' (the number is less than a expected value)()",
+    "uid" : "dc35e30b388391ba",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826738,
+      "stop" : 1613666826740,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'eq' (the number is more than a expected value)()",
+    "uid" : "6e4aa7cb4920c016",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826746,
+      "stop" : 1613666826746,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'ne' (the number is equals to a expected value)()",
+    "uid" : "f66019844cee97ec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826748,
+      "stop" : 1613666826748,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'gt' (the number is more than a expected value)()",
+    "uid" : "9d59b01e07db305a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826751,
+      "stop" : 1613666826754,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'gt' (the number is less than a expected value)()",
+    "uid" : "960d26ef52f3fe61",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826756,
+      "stop" : 1613666826756,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'gt' (the number is equals to a expected value)()",
+    "uid" : "4d1ee6a264d8deb7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826759,
+      "stop" : 1613666826759,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'ge' (the number is equals to a expected value)()",
+    "uid" : "b1e90d14f7be8563",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826762,
+      "stop" : 1613666826765,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'ge' (the number is more than a expected value)()",
+    "uid" : "2aa70de6097262d5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826767,
+      "stop" : 1613666826767,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'ge' (the number is less than a expected value)()",
+    "uid" : "b25b7bcffd2d7d78",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826769,
+      "stop" : 1613666826771,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'lt' (the number is equals to a expected value)()",
+    "uid" : "f2a0c29633ffb8ce",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826781,
+      "stop" : 1613666826783,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'lt' (the number is more than a expected value)()",
+    "uid" : "30b61a0f9835a131",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826785,
+      "stop" : 1613666826786,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'lt' (the number is less than a expected value)()",
+    "uid" : "94ff7a4a0053fa57",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826791,
+      "stop" : 1613666826793,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'le' (the number is equals to a expected value)()",
+    "uid" : "175420ebf019ae12",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826800,
+      "stop" : 1613666826804,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'le' (the number is more than a expected value)()",
+    "uid" : "b18d7b5f87f93397",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826808,
+      "stop" : 1613666826809,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'le' (the number is less than a expected value)()",
+    "uid" : "e7cce4f11f75fae0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826813,
+      "stop" : 1613666826815,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minLength' (a value of a string is less than the min allowed length)()",
+    "uid" : "8961cefe78aeb13c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826830,
+      "stop" : 1613666826833,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and more the min allowed length)()",
+    "uid" : "74d5ed4fdb9f7348",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826839,
+      "stop" : 1613666826842,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and less the min allowed length)()",
+    "uid" : "af50ffe4e6bf7e6e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826847,
+      "stop" : 1613666826848,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minLength' (a value of a string is empty)()",
+    "uid" : "f50b8480ad811c88",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826853,
+      "stop" : 1613666826855,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and equal the min allowed length)()",
+    "uid" : "cea0b7358bf3d1d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826859,
+      "stop" : 1613666826860,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minLength' (a value of a string is more than the min allowed length)()",
+    "uid" : "d6f702c066c18673",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826863,
+      "stop" : 1613666826864,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minLength' (a value of a string is equal to the min allowed length)()",
+    "uid" : "c03b4dc85c639d4e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826867,
+      "stop" : 1613666826868,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxLength' (a value of a string is more than the max allowed length)()",
+    "uid" : "aeb9f006166e2b40",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826879,
+      "stop" : 1613666826886,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and more the max allowed length)()",
+    "uid" : "8429de02ddfb9406",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826891,
+      "stop" : 1613666826893,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and less the max allowed length)()",
+    "uid" : "7c17b3e0fa95abfb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826896,
+      "stop" : 1613666826897,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxLength' (a value of a string is less than the max allowed length)()",
+    "uid" : "c11cfab8bd53a1f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826901,
+      "stop" : 1613666826902,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxLength' (a value of a string is empty)()",
+    "uid" : "41f6dde90d6858d2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826904,
+      "stop" : 1613666826906,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxLength' (a value of a string is equal to the max allowed length)()",
+    "uid" : "2d2268ba89dbf3bc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826912,
+      "stop" : 1613666826912,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and equal the max allowed length)()",
+    "uid" : "c14d8b7e55a37366",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826917,
+      "stop" : 1613666826918,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is blank)()",
+    "uid" : "fa936bfccaea5e27",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826925,
+      "stop" : 1613666826928,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is empty)()",
+    "uid" : "77891644f947de45",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826930,
+      "stop" : 1613666826931,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is not empty)()",
+    "uid" : "db3ce82753d9aec2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826933,
+      "stop" : 1613666826934,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is not blank)()",
+    "uid" : "c6a983463cbd4f81",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666826941,
+      "stop" : 1613666827042,
+      "duration" : 101
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is blank)()",
+    "uid" : "647da45c4d9970fd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827051,
+      "stop" : 1613666827052,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is empty)()",
+    "uid" : "d49974f01e4847df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827055,
+      "stop" : 1613666827056,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'pattern' (a value of a string is not matching to the pattern)()",
+    "uid" : "ebcbc181a47a04d1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827065,
+      "stop" : 1613666827067,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'pattern' (a value of a string is empty)()",
+    "uid" : "a200f4b4505704f6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827071,
+      "stop" : 1613666827073,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'pattern' (a value of a string is matching to the pattern)()",
+    "uid" : "283092149132e7c8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827077,
+      "stop" : 1613666827077,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isA' (a value of a string is not a number)()",
+    "uid" : "eb56b616a7298c5a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827085,
+      "stop" : 1613666827085,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isA' (a value of a string is a number)()",
+    "uid" : "88df0d23abae6bca",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827089,
+      "stop" : 1613666827090,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isA' (a value of a string is not a number but an empty string)()",
+    "uid" : "c7465ad807e42a83",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827096,
+      "stop" : 1613666827097,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minItems' (a count of elements is more than the minimum)()",
+    "uid" : "edf0b592db110228",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827105,
+      "stop" : 1613666827203,
+      "duration" : 98
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minItems' (a number of elements is less than the minimum)()",
+    "uid" : "692453ed67b32706",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827207,
+      "stop" : 1613666827208,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minItems' (a count of elements is equal to the minimum)()",
+    "uid" : "87eb4eb0d002ae9b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827210,
+      "stop" : 1613666827210,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'minItems' (a collection is empty)()",
+    "uid" : "ce65329ac4fbf1f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827212,
+      "stop" : 1613666827213,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxItems' (a collection is empty)()",
+    "uid" : "28cde5c36b1feccd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827219,
+      "stop" : 1613666827222,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxItems' (a count of elements is more than the maximum)()",
+    "uid" : "4e72edd11516232a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827224,
+      "stop" : 1613666827224,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxItems' (a count of elements is equal to the maximum)()",
+    "uid" : "a2d30a0842c41323",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827226,
+      "stop" : 1613666827228,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'maxItems' (a count of elements is less than the maximum)()",
+    "uid" : "4e0c6c1eedf6517b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827231,
+      "stop" : 1613666827234,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isUnique' (a collection contains only unique values)()",
+    "uid" : "370e56a53b26a369",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827239,
+      "stop" : 1613666827244,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isUnique' (a collection is empty)()",
+    "uid" : "4bba979b577920c0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827249,
+      "stop" : 1613666827250,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing basic validator of the 'isUnique' (a collection contains duplicates)()",
+    "uid" : "aad32c4856495aa4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827252,
+      "stop" : 1613666827254,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[1] true, true",
+    "uid" : "c37228cd8b0e2a24",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827367,
+      "stop" : 1613666827400,
+      "duration" : 33
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[2] true, false",
+    "uid" : "492fd4034e680d36",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827409,
+      "stop" : 1613666827411,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[3] false, true",
+    "uid" : "4ffaedc7a688eda7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827415,
+      "stop" : 1613666827416,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[4] false, false",
+    "uid" : "705472590455c646",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827421,
+      "stop" : 1613666827421,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[1] true, true",
+    "uid" : "9066486032085521",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827428,
+      "stop" : 1613666827431,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[2] true, false",
+    "uid" : "57bdb4054e2685df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827434,
+      "stop" : 1613666827435,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[3] false, true",
+    "uid" : "f5b5b4133432379",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827437,
+      "stop" : 1613666827438,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[4] false, false",
+    "uid" : "e72b5411d51767d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827440,
+      "stop" : 1613666827441,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+    "uid" : "3934aa814b4d6766",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827450,
+      "stop" : 1613666827458,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)()",
+    "uid" : "b3921eee16f53cbd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827461,
+      "stop" : 1613666827467,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)()",
+    "uid" : "9cecfd7e274f495b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827469,
+      "stop" : 1613666827470,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is found)()",
+    "uid" : "fcbe7c8099204ecd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827472,
+      "stop" : 1613666827473,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+    "uid" : "4458c6a61d7d894a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827476,
+      "stop" : 1613666827478,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)()",
+    "uid" : "2a32976d5f08b2a4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827480,
+      "stop" : 1613666827495,
+      "duration" : 15
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)()",
+    "uid" : "13fee93cf078e702",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827498,
+      "stop" : 1613666827499,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is found)()",
+    "uid" : "9f79bd584fed0820",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827501,
+      "stop" : 1613666827502,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'list' function (array is empty)()",
+    "uid" : "afeaf5d0197a6f48",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827513,
+      "stop" : 1613666827525,
+      "duration" : 12
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'list' function (an attribute is not collection)()",
+    "uid" : "9dffcc760979f58c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827528,
+      "stop" : 1613666827529,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'list' function()",
+    "uid" : "a970d188a9c434a4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827533,
+      "stop" : 1613666827553,
+      "duration" : 20
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'list' function (collection with inconsistent content)()",
+    "uid" : "697649dbf75f4e2f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827559,
+      "stop" : 1613666827563,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'set' function (array is empty)()",
+    "uid" : "1ca9fc4c78f94efd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827568,
+      "stop" : 1613666827581,
+      "duration" : 13
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'set' function()",
+    "uid" : "816054be3f51e1db",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827586,
+      "stop" : 1613666827587,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'set' function (an attribute is not collection)()",
+    "uid" : "9f584883b910408a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827589,
+      "stop" : 1613666827590,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'set' function (collection with inconsistent content)()",
+    "uid" : "6b4e14c8475dd5f3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827593,
+      "stop" : 1613666827593,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'or' function of the JsReader class (first reader)()",
+    "uid" : "46db7d8124abbdc9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827599,
+      "stop" : 1613666827603,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'or' function of the JsReader class (second reader)()",
+    "uid" : "de3fb846632d349c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827606,
+      "stop" : 1613666827608,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'or' function of the JsReader class (failure both reader)()",
+    "uid" : "49a2126515a11fc4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827611,
+      "stop" : 1613666827641,
+      "duration" : 30
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'map' function of the JsReader class()",
+    "uid" : "76c7f6143a3946f1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827647,
+      "stop" : 1613666827650,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing extension-function 'readAsBoolean'()",
+    "uid" : "8cbe654c03aa8f6f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827653,
+      "stop" : 1613666827654,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing extension-function 'readAsBoolean' (invalid type)()",
+    "uid" : "49e8b68f25a9350c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827661,
+      "stop" : 1613666827663,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing extension-function 'readAsString' (invalid type)()",
+    "uid" : "3ae20fcd59cc8c5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827667,
+      "stop" : 1613666827668,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing extension-function 'readAsString'()",
+    "uid" : "2b8710132266824b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827669,
+      "stop" : 1613666827671,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing extension-function 'readAsNumber' invalid type)()",
+    "uid" : "966a15d4df14260a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827678,
+      "stop" : 1613666827678,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing extension-function 'readAsNumber'()",
+    "uid" : "4a745241dc130d60",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827680,
+      "stop" : 1613666827681,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'nullable' function (an attribute is found)()",
+    "uid" : "bb8d61d5badd4910",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827687,
+      "stop" : 1613666827689,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'nullable' function (an attribute is found with value 'null')()",
+    "uid" : "7b798e10787bed45",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827692,
+      "stop" : 1613666827692,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'nullable' function (an attribute is not found, returning value 'null')()",
+    "uid" : "a9ca77d1787d6f11",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827694,
+      "stop" : 1613666827695,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'nullable' function (an attribute is not found, invalid type)()",
+    "uid" : "4df47412812e93f9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827698,
+      "stop" : 1613666827699,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'nullable' function (an attribute is found)()",
+    "uid" : "bd37feaefd1c656f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827702,
+      "stop" : 1613666827703,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'nullable' function (an attribute is found with value 'null')()",
+    "uid" : "82a3b1427c194c55",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827705,
+      "stop" : 1613666827705,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'nullable' function (an attribute is not found, returning value 'null')()",
+    "uid" : "8ae99254dedbd9ee",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827709,
+      "stop" : 1613666827710,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'nullable' function (an attribute is not found, invalid type)()",
+    "uid" : "eb0da79077ea761e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827713,
+      "stop" : 1613666827713,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Boolean' type (reading from invalid node)()",
+    "uid" : "4a5ef3c4a6b0ac77",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827733,
+      "stop" : 1613666827734,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Boolean' type()",
+    "uid" : "3b4323aed0f9ab2a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827736,
+      "stop" : 1613666827737,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'String' type()",
+    "uid" : "96f95ee77e4a3b28",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827740,
+      "stop" : 1613666827740,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'String' type (reading from invalid node)()",
+    "uid" : "d9a837cc67f47e5b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827742,
+      "stop" : 1613666827743,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Byte' type (reading a value of an invalid format)()",
+    "uid" : "181798bc22f25c3c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827747,
+      "stop" : 1613666827778,
+      "duration" : 31
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Byte' type (reading from invalid node)()",
+    "uid" : "3d63ab611945bc79",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827780,
+      "stop" : 1613666827782,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Byte' type (reading a value that more the allowed range)()",
+    "uid" : "c641101da905b73d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827784,
+      "stop" : 1613666827784,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "min value",
+    "uid" : "9db413fac8acc929",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827799,
+      "stop" : 1613666827801,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "max value",
+    "uid" : "53a1b09d073f2376",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827803,
+      "stop" : 1613666827804,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "min value",
+    "uid" : "ff6e9d22b7815380",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827812,
+      "stop" : 1613666827813,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "max value",
+    "uid" : "5fc0f78ff0f2dfe3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827815,
+      "stop" : 1613666827816,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Short' type (reading a value of an invalid format)()",
+    "uid" : "f1dcbde0aa2d7616",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827819,
+      "stop" : 1613666827819,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Short' type (reading a value that more the allowed range)()",
+    "uid" : "3515860bc9a28951",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827821,
+      "stop" : 1613666827822,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Short' type (reading from invalid node)()",
+    "uid" : "c5c4596ff7b712ec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827825,
+      "stop" : 1613666827826,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Int' type (reading a value of an invalid format)()",
+    "uid" : "afb3ba060b6b29f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827830,
+      "stop" : 1613666827832,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Int' type (reading a value that more the allowed range)()",
+    "uid" : "9b6c6eddb985b2af",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827833,
+      "stop" : 1613666827835,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Int' type (reading from invalid node)()",
+    "uid" : "b2cb9fc0d2cb11ad",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827837,
+      "stop" : 1613666827838,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "min value",
+    "uid" : "cab20db683dc8f38",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827843,
+      "stop" : 1613666827845,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "max value",
+    "uid" : "7acec8e3eea837f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827852,
+      "stop" : 1613666827853,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Long' type (reading from invalid node)()",
+    "uid" : "2b947e34b12a3484",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827859,
+      "stop" : 1613666827862,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'Long' type (reading a value of an invalid format)()",
+    "uid" : "7e31586e027c22d9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827865,
+      "stop" : 1613666827867,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "min value",
+    "uid" : "515e280a1300ce12",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827872,
+      "stop" : 1613666827873,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "max value",
+    "uid" : "4dcfb970b18ecc8f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827875,
+      "stop" : 1613666827875,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "min value",
+    "uid" : "da7bb4d00edbf836",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827883,
+      "stop" : 1613666827884,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "max value",
+    "uid" : "adfa8c61b24f8bcc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827886,
+      "stop" : 1613666827888,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing reader for 'BigDecimal' type (reading from invalid node)()",
+    "uid" : "e01d8b4e67ace03c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827890,
+      "stop" : 1613666827892,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'fx' extension of the JsResult for the binding success()",
+    "uid" : "f7a6642fd5bbcf5f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827896,
+      "stop" : 1613666827903,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'fx' extension of the JsResult for the binding failure()",
+    "uid" : "66297bf159750905",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827905,
+      "stop" : 1613666827907,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'orElse' function of the Success class()",
+    "uid" : "dfc85d5e45b7b54",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827914,
+      "stop" : 1613666827919,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'repath' function of the Success class()",
+    "uid" : "291501d2a880db63",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827922,
+      "stop" : 1613666827924,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'flatMap' function of the Success class()",
+    "uid" : "22fc40307d1546bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827926,
+      "stop" : 1613666827931,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'onFailure' function of the Success class()",
+    "uid" : "4337fcaf42359bd9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827938,
+      "stop" : 1613666827942,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'getOrElse' function of the Success class()",
+    "uid" : "a90e8d298339ebf8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827949,
+      "stop" : 1613666827952,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'map' function of the Success class()",
+    "uid" : "baa8bb0bc25db792",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827958,
+      "stop" : 1613666827963,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'map' function of the Failure class()",
+    "uid" : "a94fa47177bc7b85",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827971,
+      "stop" : 1613666827973,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'orElse' function of the Failure class()",
+    "uid" : "2163a81cab897f62",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827975,
+      "stop" : 1613666827976,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'repath' function of the Failure class()",
+    "uid" : "5ad9a5c233146a94",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827978,
+      "stop" : 1613666827978,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'flatMap' function of the Failure class()",
+    "uid" : "40e1c9ea3c44c519",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827980,
+      "stop" : 1613666827981,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'onFailure' function of the Failure class()",
+    "uid" : "609dda7d4c764e6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827982,
+      "stop" : 1613666827984,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'getOrElse' function of the Failure class()",
+    "uid" : "25c966068bd44833",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827985,
+      "stop" : 1613666827986,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the constructor of the Failure class with path and one error description()",
+    "uid" : "7c16b9cdad3e9639",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827988,
+      "stop" : 1613666827989,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the constructor of the Failure class with path and errors description()",
+    "uid" : "3cbbfaecc107e6e9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827990,
+      "stop" : 1613666827990,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the constructor of the Failure class with only error description()",
+    "uid" : "6239428d152f34d7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827992,
+      "stop" : 1613666827993,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing the constructor of the Failure class without parameters()",
+    "uid" : "9dc266b3380b6119",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827994,
+      "stop" : 1613666827995,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'equals contract' of the NumberFormat class()",
+    "uid" : "f386c4ec9435c6b8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666827998,
+      "stop" : 1613666827999,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'equals contract' of the InvalidType class()",
+    "uid" : "8941422096a0082c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828000,
+      "stop" : 1613666828000,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'required' function (an attribute is not found, invalid type)()",
+    "uid" : "68a6b474ae73cd3a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828005,
+      "stop" : 1613666828007,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'required' function (an attribute is not found)()",
+    "uid" : "e8be61a274f1ba2c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828008,
+      "stop" : 1613666828009,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'required' function (an attribute is found)()",
+    "uid" : "1b7ec25b6d1aa89b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828010,
+      "stop" : 1613666828011,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'required' function (an attribute is not found, invalid type)()",
+    "uid" : "4100e0057adc4ae8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828014,
+      "stop" : 1613666828014,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'required' function (an attribute is not found)()",
+    "uid" : "4fe3a39a04947e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828016,
+      "stop" : 1613666828016,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'required' function (an attribute is found)()",
+    "uid" : "20520f41ba8d9837",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828017,
+      "stop" : 1613666828018,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+    "uid" : "c19ca0716071fb3d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828023,
+      "stop" : 1613666828025,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)()",
+    "uid" : "8c9ad1d4c265158f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828026,
+      "stop" : 1613666828027,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)()",
+    "uid" : "906f5317c71cb36a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828028,
+      "stop" : 1613666828029,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is found)()",
+    "uid" : "ff77763cc36a67e5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828030,
+      "stop" : 1613666828031,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+    "uid" : "bdb194f9bb0cc410",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828033,
+      "stop" : 1613666828034,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)()",
+    "uid" : "cc7ea5294b4c9da8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828037,
+      "stop" : 1613666828037,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)()",
+    "uid" : "5fe6d02bfaa3869f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828039,
+      "stop" : 1613666828039,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'withDefault' function (an attribute is found)()",
+    "uid" : "af6c8a191a5f6a3f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828044,
+      "stop" : 1613666828044,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'equals contract' of the JsString class()",
+    "uid" : "81476362401b6b2b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828048,
+      "stop" : 1613666828048,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing JsArray class without data()",
+    "uid" : "7c6fbbbfe52e4510",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828049,
+      "stop" : 1613666828050,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing JsArray class()",
+    "uid" : "91b352850f0916c4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828051,
+      "stop" : 1613666828052,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'toString' function of the JsArray class()",
+    "uid" : "628caf782ec8627c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828053,
+      "stop" : 1613666828054,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testing 'lookup' function (an attribute by index is found)()",
+    "uid" : "434211501862add8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828057,
+      "stop" : 1613666828057,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testing 'lookup' function (an attribute by name is found)()",
+    "uid" : "f63d517b65992de4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828059,
+      "stop" : 1613666828059,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testing 'lookup' function (an attribute by name is not found)()",
+    "uid" : "26311ef53b8f671d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828061,
+      "stop" : 1613666828061,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testing 'lookup' function (an attribute by index is not found)()",
+    "uid" : "e3337f863bfbc4d6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828062,
+      "stop" : 1613666828063,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testing 'lookup' function (an attribute by name is not found, node is invalid type)()",
+    "uid" : "a962ccc3e43d6278",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828064,
+      "stop" : 1613666828065,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testing 'lookup' function (an attribute by index is not found, node is invalid type)()",
+    "uid" : "e390fa3f156ff0e1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828066,
+      "stop" : 1613666828067,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing inner state of the JsBoolean class()",
+    "uid" : "6eb738b1608227de",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828069,
+      "stop" : 1613666828071,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'toString' function of the JsBoolean class()",
+    "uid" : "3c6fa0728f000759",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828072,
+      "stop" : 1613666828072,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'equals contract' of the JsString class()",
+    "uid" : "3f549575257b3e9e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828074,
+      "stop" : 1613666828075,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'toString' function of the JsString class()",
+    "uid" : "f223ae5d709cc8bd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828076,
+      "stop" : 1613666828076,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'equals contract' of the JsObject class()",
+    "uid" : "ab740a8818891fd3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828079,
+      "stop" : 1613666828079,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'toString' function of the JsObject class()",
+    "uid" : "37257f27f501cdea",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828080,
+      "stop" : 1613666828081,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing JsObject class without attributes()",
+    "uid" : "ef0a1713081ac438",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828082,
+      "stop" : 1613666828084,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing JsObject class()",
+    "uid" : "a4360b687073f737",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828085,
+      "stop" : 1613666828086,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "0.0",
+    "uid" : "e0b849f604a886d8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828093,
+      "stop" : 1613666828094,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-0.0",
+    "uid" : "cea67a9fb10a7da1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828095,
+      "stop" : 1613666828096,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "0.1",
+    "uid" : "fed650d6e7c8b021",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828097,
+      "stop" : 1613666828102,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-0.1",
+    "uid" : "567bcef049cf7122",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828104,
+      "stop" : 1613666828104,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1.5",
+    "uid" : "f779fbbdff4b4a39",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828105,
+      "stop" : 1613666828105,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1.5",
+    "uid" : "707e5da4671a1bf1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828106,
+      "stop" : 1613666828106,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1.50",
+    "uid" : "2a7f147e31ff17b3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828107,
+      "stop" : 1613666828108,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1.50",
+    "uid" : "d9b88a0848d03b9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828109,
+      "stop" : 1613666828109,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'valueOf' function of the JsNumber class for Int type()",
+    "uid" : "720a3deff8179ff5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828110,
+      "stop" : 1613666828114,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "0",
+    "uid" : "75be882b23f21bb7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828116,
+      "stop" : 1613666828116,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-0",
+    "uid" : "baf0937a203a249b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828117,
+      "stop" : 1613666828117,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1",
+    "uid" : "b902f819a0c31f0c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828118,
+      "stop" : 1613666828119,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1",
+    "uid" : "a26348c867079e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828120,
+      "stop" : 1613666828120,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "100",
+    "uid" : "42b2b41d2f4457af",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828124,
+      "stop" : 1613666828124,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-100",
+    "uid" : "d90b751da69673dd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828125,
+      "stop" : 1613666828125,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'valueOf' function of the JsNumber class for Byte type()",
+    "uid" : "f261f12b7199b21c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828127,
+      "stop" : 1613666828127,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'equals contract' of the JsNumber class()",
+    "uid" : "4b4e0d16200009aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828129,
+      "stop" : 1613666828129,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1",
+    "uid" : "60c1a4351c0a38e8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828134,
+      "stop" : 1613666828134,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1",
+    "uid" : "1668be9ec216a78f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828135,
+      "stop" : 1613666828135,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1.5",
+    "uid" : "48c56d20be33e34c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828136,
+      "stop" : 1613666828137,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1.5",
+    "uid" : "df0572aa137cc03c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828138,
+      "stop" : 1613666828138,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1.50",
+    "uid" : "a754faade173d381",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828139,
+      "stop" : 1613666828139,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1.50",
+    "uid" : "1da095c2618b7abe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828140,
+      "stop" : 1613666828141,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "false",
+    "uid" : "c43a5449a8f3ef39",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828149,
+      "stop" : 1613666828149,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : ".0",
+    "uid" : "e6372e651e0990f6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828150,
+      "stop" : 1613666828151,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "+.0",
+    "uid" : "8242c7f5f7ad3d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828152,
+      "stop" : 1613666828152,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-.0",
+    "uid" : "2195506782425b1e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828154,
+      "stop" : 1613666828155,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1",
+    "uid" : "892d29378395114b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828156,
+      "stop" : 1613666828156,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1",
+    "uid" : "cb95afef2fe944ee",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828157,
+      "stop" : 1613666828157,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1.5",
+    "uid" : "332c6d18e3c57076",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828158,
+      "stop" : 1613666828158,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1.5",
+    "uid" : "c37b8abfd2540b32",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828160,
+      "stop" : 1613666828160,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "1.50",
+    "uid" : "f676554c889984aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828161,
+      "stop" : 1613666828161,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "-1.50",
+    "uid" : "659f887a0d6324c3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828168,
+      "stop" : 1613666828168,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'valueOf' function of the JsNumber class for Long type()",
+    "uid" : "2a4fdfdb841c8e35",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828170,
+      "stop" : 1613666828170,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'valueOf' function of the JsNumber class for Short type()",
+    "uid" : "c4ff2f87180610eb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828171,
+      "stop" : 1613666828171,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing 'toString' function of the JsNull class()",
+    "uid" : "b80e32900a4242b4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828173,
+      "stop" : 1613666828173,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of a required attribute()",
+    "uid" : "91b73fa328ebe646",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828190,
+      "stop" : 1613666828190,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of an optional attribute()",
+    "uid" : "f24d619fa1f71306",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828194,
+      "stop" : 1613666828195,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of an optional attribute (a value of an attribute is null)()",
+    "uid" : "9d0fe33812d9fbbc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828196,
+      "stop" : 1613666828196,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of a nullable attribute (a value of an attribute is null)()",
+    "uid" : "fd1ff2077c191be3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828200,
+      "stop" : 1613666828200,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of a nullable attribute()",
+    "uid" : "bf521c973379ec76",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828201,
+      "stop" : 1613666828201,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of a traversable attribute (attribute is empty)()",
+    "uid" : "21ae82ce3a5e08a2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828205,
+      "stop" : 1613666828205,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of a traversable attribute()",
+    "uid" : "ad0d1444e93345a9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828206,
+      "stop" : 1613666828206,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of a optional traversable attribute()",
+    "uid" : "9951a84c92e21e07",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828210,
+      "stop" : 1613666828210,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing of a write of a optional traversable attribute (attribute is empty)()",
+    "uid" : "e6bdc534e97f14d7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828211,
+      "stop" : 1613666828211,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing writer for 'String' type()",
+    "uid" : "346fc9678acc41e6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828214,
+      "stop" : 1613666828214,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing writer for 'Byte' type()",
+    "uid" : "d1c4cce31cf318c3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828215,
+      "stop" : 1613666828215,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing writer for 'Short' type()",
+    "uid" : "180d5ee40486c9cd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828216,
+      "stop" : 1613666828217,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing writer for 'BigDecimal' (stripTrailingZeros is true)()",
+    "uid" : "a84085423c02592f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828218,
+      "stop" : 1613666828219,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[1] true",
+    "uid" : "3708f85589f667a8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828226,
+      "stop" : 1613666828231,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[2] false",
+    "uid" : "68e2a1142f2045ff",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828233,
+      "stop" : 1613666828234,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing writer for 'Int' type()",
+    "uid" : "c5ce47c64f893a9c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828239,
+      "stop" : 1613666828240,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing writer for 'BigDecimal' (default configuration)()",
+    "uid" : "ad842998cea8c789",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828241,
+      "stop" : 1613666828242,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Testing writer for 'Long' type()",
+    "uid" : "21250044056bf875",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613666828243,
+      "stop" : 1613666828243,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

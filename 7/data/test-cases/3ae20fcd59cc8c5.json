@@ -1,0 +1,57 @@
+{
+  "uid" : "3ae20fcd59cc8c5",
+  "name" : "Testing extension-function 'readAsString' (invalid type)()",
+  "fullName" : "io.github.airflux.reader.extension.ReadAsExtensionTest$ReadAsString.Testing extension-function 'readAsString' (invalid type)",
+  "historyId" : "b065f504fa571a7aa549786e72482cc6",
+  "time" : {
+    "start" : 1613666827667,
+    "stop" : 1613666827668,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.extension.ReadAsExtensionTest$ReadAsString"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.extension.ReadAsExtensionTest$ReadAsString"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing extension-function 'readAsString' (invalid type)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.extension.ReadAsExtensionTest.ReadAsString"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ae20fcd59cc8c5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "3b4323aed0f9ab2a",
+  "name" : "Testing reader for 'Boolean' type()",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$BooleanReader.Testing reader for 'Boolean' type",
+  "historyId" : "93cbe96316c08dafa82c97dfa93b106e",
+  "time" : {
+    "start" : 1613666827736,
+    "stop" : 1613666827737,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$BooleanReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$BooleanReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'Boolean' type"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.BooleanReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b4323aed0f9ab2a.json",
+  "parameterValues" : [ ]
+}

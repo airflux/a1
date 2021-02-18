@@ -1,0 +1,57 @@
+{
+  "uid" : "1b7ec25b6d1aa89b",
+  "name" : "Testing 'required' function (an attribute is found)()",
+  "fullName" : "io.github.airflux.reader.RequiredPathReaderTest$FromJsLookup.Testing 'required' function (an attribute is found)",
+  "historyId" : "4f8d10a254a2af7c51bd2fc4b3e96eff",
+  "time" : {
+    "start" : 1613666828010,
+    "stop" : 1613666828011,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.RequiredPathReaderTest$FromJsLookup"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.RequiredPathReaderTest$FromJsLookup"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'required' function (an attribute is found)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.RequiredPathReaderTest.FromJsLookup"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b7ec25b6d1aa89b.json",
+  "parameterValues" : [ ]
+}

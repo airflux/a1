@@ -1,0 +1,57 @@
+{
+  "uid" : "a986a518f16343bf",
+  "name" : "Testing 'toString' function of the JsPath class()",
+  "fullName" : "io.github.airflux.path.JsPathTest.Testing 'toString' function of the JsPath class",
+  "historyId" : "60db5f68910255bd49a8851469b5323c",
+  "time" : {
+    "start" : 1613666826302,
+    "stop" : 1613666826414,
+    "duration" : 112
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.path.JsPathTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.path.JsPathTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'toString' function of the JsPath class"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.path.JsPathTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a986a518f16343bf.json",
+  "parameterValues" : [ ]
+}

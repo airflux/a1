@@ -1,0 +1,57 @@
+{
+  "uid" : "fd1ff2077c191be3",
+  "name" : "Testing of a write of a nullable attribute (a value of an attribute is null)()",
+  "fullName" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteNullableAttribute.Testing of a write of a nullable attribute (a value of an attribute is null)",
+  "historyId" : "523f36ecbbaddd6e59d2281947c7795f",
+  "time" : {
+    "start" : 1613666828200,
+    "stop" : 1613666828200,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az154-445"
+  }, {
+    "name" : "thread",
+    "value" : "4368@fv-az154-445.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteNullableAttribute"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest$WriteNullableAttribute"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing of a write of a nullable attribute (a value of an attribute is null)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.writer.extension.JsWriterExtensionTest.WriteNullableAttribute"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd1ff2077c191be3.json",
+  "parameterValues" : [ ]
+}
