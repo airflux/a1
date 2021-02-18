@@ -42,8 +42,8 @@ jobs:
         id: allure-report
         with:
           allure_results: build/allure-results
-          gh_pages: gh-pages
-          allure_report: allure-report/reports
+          #gh_pages: gh-pages
+          #allure_report: allure-report/reports
           allure_history: allure-history/reports
 
       - name: Deploy report to Github Pages
