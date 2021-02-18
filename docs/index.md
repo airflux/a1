@@ -1,4 +1,4 @@
-# The AirFlux JSON library.
+# The AirFlux JSON library 2
 
 ![CI](https://github.com/airflux/airflux/workflows/CI/badge.svg)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=airflux_airflux&metric=alert_status)](https://sonarcloud.io/dashboard?id=airflux_airflux)
