@@ -13,6 +13,7 @@ plugins {
 
     id("io.gitlab.arturbosch.detekt") version "1.13.1"
     id("info.solidsoft.pitest") version "1.5.2"
+    id("io.qameta.allure") version "2.8.1"
     id("org.jetbrains.dokka") version "1.4.20"
     jacoco
 }
@@ -175,5 +176,14 @@ tasks {
                 noJdkLink.set(false)
             }
         }
+    }
+}
+
+allure {
+    autoconfigure = true
+    version = "2.8.1"
+
+    useJUnit5 {
+        version = "2.8.1"
     }
 }
