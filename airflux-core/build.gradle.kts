@@ -25,6 +25,7 @@ val jvmTargetVersion by extra { "1.8" }
 val junitJupiterVersion by extra { "5.7.0" }
 val junitPlatformVersion by extra { "1.7.0" }
 val pitestJUnit5Version by extra { "0.12" }
+val allureVersion by extra { "2.13.6"}
 
 repositories {
 
@@ -181,9 +182,9 @@ tasks {
 
 allure {
     autoconfigure = true
-    version = "2.8.1"
+    version = allureVersion
 
     useJUnit5 {
-        version = "2.8.1"
+        version = allureVersion
     }
 }
