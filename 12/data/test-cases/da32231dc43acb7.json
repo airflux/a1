@@ -1,0 +1,57 @@
+{
+  "uid" : "da32231dc43acb7",
+  "name" : "min value",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$BigDecimalReader.Testing reader for 'BigDecimal' type",
+  "historyId" : "7817ecae4d2f972af6b3a4c6a1209118",
+  "time" : {
+    "start" : 1613670037885,
+    "stop" : 1613670037887,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$BigDecimalReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$BigDecimalReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'BigDecimal' type"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.BigDecimalReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da32231dc43acb7.json",
+  "parameterValues" : [ ]
+}

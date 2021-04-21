@@ -1,0 +1,57 @@
+{
+  "uid" : "d5c4047c418cde64",
+  "name" : "Testing reader for 'String' type (reading from invalid node)()",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$StringReader.Testing reader for 'String' type (reading from invalid node)",
+  "historyId" : "5e319e49e170fb0cdbbfc5eaba7007e8",
+  "time" : {
+    "start" : 1613670037756,
+    "stop" : 1613670037756,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$StringReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$StringReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'String' type (reading from invalid node)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.StringReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5c4047c418cde64.json",
+  "parameterValues" : [ ]
+}

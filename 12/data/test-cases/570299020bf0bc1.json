@@ -1,0 +1,57 @@
+{
+  "uid" : "570299020bf0bc1",
+  "name" : "Testing basic validator of the 'min' (a number is less than the minimum)()",
+  "fullName" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Min.Testing basic validator of the 'min' (a number is less than the minimum)",
+  "historyId" : "d28988c1ade58b9bdec9b91f28cbb7a9",
+  "time" : {
+    "start" : 1613670036738,
+    "stop" : 1613670036740,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Min"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest$Min"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'min' (a number is less than the minimum)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.NumberValidatorsTest.Min"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "570299020bf0bc1.json",
+  "parameterValues" : [ ]
+}

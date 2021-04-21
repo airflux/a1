@@ -1,0 +1,2411 @@
+[ {
+  "uid" : "5705b1eaddff16e7",
+  "name" : "Testing basic validator of the 'isA' (a value of a string is a number)()",
+  "time" : {
+    "start" : 1613670037112,
+    "stop" : 1613670037113,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15267f6ac0b5d623",
+  "name" : "-1.50",
+  "time" : {
+    "start" : 1613670038219,
+    "stop" : 1613670038219,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1154465ffe0e64dc",
+  "name" : "min value",
+  "time" : {
+    "start" : 1613670037814,
+    "stop" : 1613670037816,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8337e4ad36415374",
+  "name" : "Testing basic validator of the 'le' (the number is equals to a expected value)()",
+  "time" : {
+    "start" : 1613670036884,
+    "stop" : 1613670036887,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91bf7a7984cc3a68",
+  "name" : "Testing basic validator of the 'eq' (the number is less than a expected value)()",
+  "time" : {
+    "start" : 1613670036791,
+    "stop" : 1613670036792,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65a6dce5857dcaea",
+  "name" : "[2] false",
+  "time" : {
+    "start" : 1613670038323,
+    "stop" : 1613670038324,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0db5448e503de40",
+  "name" : "Testing 'toString' function of the JsObject class()",
+  "time" : {
+    "start" : 1613670038103,
+    "stop" : 1613670038104,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e958f52b0e0280d",
+  "name" : "Testing of a write of an optional attribute()",
+  "time" : {
+    "start" : 1613670038283,
+    "stop" : 1613670038285,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e141af4e496dc21",
+  "name" : "+.0",
+  "time" : {
+    "start" : 1613670038200,
+    "stop" : 1613670038201,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c96a14ed4013936",
+  "name" : "max value",
+  "time" : {
+    "start" : 1613670037878,
+    "stop" : 1613670037878,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6407dde435da3f85",
+  "name" : "Testing basic validator of the 'eq' (the number is equals to a expected value)()",
+  "time" : {
+    "start" : 1613670036781,
+    "stop" : 1613670036784,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c2122223a03cb06",
+  "name" : "Testing 'required' function (an attribute is not found)()",
+  "time" : {
+    "start" : 1613670038007,
+    "stop" : 1613670038008,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c57b74a1515c16fd",
+  "name" : "[1] true",
+  "time" : {
+    "start" : 1613670038319,
+    "stop" : 1613670038320,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c75a50d48ede8ced",
+  "name" : "Testing 'toString' function of the JsBoolean class()",
+  "time" : {
+    "start" : 1613670038082,
+    "stop" : 1613670038082,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee5ee411cb06282a",
+  "name" : "Testing 'map' function of the JsReader class()",
+  "time" : {
+    "start" : 1613670037666,
+    "stop" : 1613670037672,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59bd6fbc12c1a9eb",
+  "name" : "Testing the constructor of the Failure class without parameters()",
+  "time" : {
+    "start" : 1613670037984,
+    "stop" : 1613670037984,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1fa5a55eb3d61389",
+  "name" : "Testing basic validator of the 'lt' (the number is more than a expected value)()",
+  "time" : {
+    "start" : 1613670036874,
+    "stop" : 1613670036875,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c44b42c1da25364",
+  "name" : "[4] false, false",
+  "time" : {
+    "start" : 1613670037477,
+    "stop" : 1613670037478,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1ef0fa0caa742d8",
+  "name" : "Testing reader for 'Byte' type (reading from invalid node)()",
+  "time" : {
+    "start" : 1613670037795,
+    "stop" : 1613670037796,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d2d6816e16a2774",
+  "name" : "testing 'lookup' function (an attribute by index is not found)()",
+  "time" : {
+    "start" : 1613670038071,
+    "stop" : 1613670038072,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a21d517df3c421b",
+  "name" : "testing 'lookup' function (an attribute by index is not found, node is invalid type)()",
+  "time" : {
+    "start" : 1613670038075,
+    "stop" : 1613670038075,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36d40686ad72b094",
+  "name" : "[2] true, false",
+  "time" : {
+    "start" : 1613670037448,
+    "stop" : 1613670037450,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0efb827951ea930",
+  "name" : "Testing basic validator of the 'gt' (the number is equals to a expected value)()",
+  "time" : {
+    "start" : 1613670036835,
+    "stop" : 1613670036835,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ecabff2e79eedac",
+  "name" : "Testing reader for 'Int' type (reading a value of an invalid format)()",
+  "time" : {
+    "start" : 1613670037840,
+    "stop" : 1613670037841,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b6c18495780cec6",
+  "name" : "Testing JsObject class()",
+  "time" : {
+    "start" : 1613670038114,
+    "stop" : 1613670038115,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3302ba02442270cc",
+  "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is not blank)()",
+  "time" : {
+    "start" : 1613670036989,
+    "stop" : 1613670037071,
+    "duration" : 82
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "feae3a23c521956",
+  "name" : "Testing 'set' function (array is empty)()",
+  "time" : {
+    "start" : 1613670037596,
+    "stop" : 1613670037604,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8c21abe1b14541c",
+  "name" : "max value",
+  "time" : {
+    "start" : 1613670037888,
+    "stop" : 1613670037890,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f20c86bfcfb7e44",
+  "name" : "Testing of a write of a traversable attribute (attribute is empty)()",
+  "time" : {
+    "start" : 1613670038297,
+    "stop" : 1613670038297,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49e6e736b1e124e6",
+  "name" : "[2] true, false",
+  "time" : {
+    "start" : 1613670037471,
+    "stop" : 1613670037472,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abb1769b814486c7",
+  "name" : "-1.50",
+  "time" : {
+    "start" : 1613670038150,
+    "stop" : 1613670038150,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87edcc9b42e3d427",
+  "name" : "testing 'lookup' function (an attribute by index is found)()",
+  "time" : {
+    "start" : 1613670038064,
+    "stop" : 1613670038064,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "550d71441620e2af",
+  "name" : "Testing 'or' function of the JsReader class (failure both reader)()",
+  "time" : {
+    "start" : 1613670037633,
+    "stop" : 1613670037659,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e3158a364440bd5",
+  "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)()",
+  "time" : {
+    "start" : 1613670038036,
+    "stop" : 1613670038037,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "903514a7bcf134e5",
+  "name" : "[3] false, true",
+  "time" : {
+    "start" : 1613670037474,
+    "stop" : 1613670037475,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c28e02b90d7ff9e",
+  "name" : "100",
+  "time" : {
+    "start" : 1613670038165,
+    "stop" : 1613670038165,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b212e44d11a0a9f0",
+  "name" : "Testing basic validator of the 'gt' (the number is less than a expected value)()",
+  "time" : {
+    "start" : 1613670036829,
+    "stop" : 1613670036831,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdb5e081e77aedb9",
+  "name" : "Testing of a write of a optional traversable attribute (attribute is empty)()",
+  "time" : {
+    "start" : 1613670038305,
+    "stop" : 1613670038305,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72fb61a21058fa50",
+  "name" : "Testing 'orElse' function of the Success class()",
+  "time" : {
+    "start" : 1613670037909,
+    "stop" : 1613670037911,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fba25e8bfb404b9e",
+  "name" : "Testing reader for 'Int' type (reading from invalid node)()",
+  "time" : {
+    "start" : 1613670037846,
+    "stop" : 1613670037846,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e953fecb3ee92ce5",
+  "name" : "1",
+  "time" : {
+    "start" : 1613670038204,
+    "stop" : 1613670038204,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a69384775caa99c",
+  "name" : "Testing 'or' function of the JsReader class (second reader)()",
+  "time" : {
+    "start" : 1613670037628,
+    "stop" : 1613670037631,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f60d7768abc7f78",
+  "name" : "-1",
+  "time" : {
+    "start" : 1613670038161,
+    "stop" : 1613670038161,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1407c10707b115ea",
+  "name" : "1.5",
+  "time" : {
+    "start" : 1613670038207,
+    "stop" : 1613670038207,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f163da0cda5aee6",
+  "name" : "Testing reader for 'String' type()",
+  "time" : {
+    "start" : 1613670037753,
+    "stop" : 1613670037754,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3547728fcf56fcb6",
+  "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and more the max allowed length)()",
+  "time" : {
+    "start" : 1613670036951,
+    "stop" : 1613670036952,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad7eda11e6f9beb2",
+  "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+  "time" : {
+    "start" : 1613670038031,
+    "stop" : 1613670038033,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a58c3cd049d372e",
+  "name" : "testing 'lookup' function (an attribute by name is not found)()",
+  "time" : {
+    "start" : 1613670038068,
+    "stop" : 1613670038069,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c6592fb009c00f0",
+  "name" : "Testing 'required' function (an attribute is found)()",
+  "time" : {
+    "start" : 1613670038009,
+    "stop" : 1613670038010,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdbc1560baebc609",
+  "name" : "Testing 'valueOf' function of the JsNumber class for Long type()",
+  "time" : {
+    "start" : 1613670038231,
+    "stop" : 1613670038231,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7698c9de20c9108c",
+  "name" : "Testing extension-function 'readAsString'()",
+  "time" : {
+    "start" : 1613670037693,
+    "stop" : 1613670037694,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5480fb20e8295c80",
+  "name" : "Testing of a write of a nullable attribute()",
+  "time" : {
+    "start" : 1613670038292,
+    "stop" : 1613670038293,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7891292964ce880d",
+  "name" : "-1.5",
+  "time" : {
+    "start" : 1613670038146,
+    "stop" : 1613670038146,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "801524b8d80adacb",
+  "name" : "Testing basic validator of the 'maxLength' (a value of a string is less than the max allowed length)()",
+  "time" : {
+    "start" : 1613670036957,
+    "stop" : 1613670036958,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0f471dc1f4b5b56",
+  "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)()",
+  "time" : {
+    "start" : 1613670038048,
+    "stop" : 1613670038049,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb12858078dbbe0d",
+  "name" : "testing 'lookup' function (an attribute by name is not found, node is invalid type)()",
+  "time" : {
+    "start" : 1613670038073,
+    "stop" : 1613670038074,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2000e88c5926da8c",
+  "name" : "min value",
+  "time" : {
+    "start" : 1613670037850,
+    "stop" : 1613670037851,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6e9c8ca26d673d8",
+  "name" : "Testing 'equals contract' of the JsPath class()",
+  "time" : {
+    "start" : 1613670036644,
+    "stop" : 1613670036647,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc3a23ff1f627b48",
+  "name" : "Testing reader for 'Boolean' type()",
+  "time" : {
+    "start" : 1613670037750,
+    "stop" : 1613670037751,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d67c9b30ffa295e",
+  "name" : "Testing basic validator of the 'maxItems' (a count of elements is more than the maximum)()",
+  "time" : {
+    "start" : 1613670037268,
+    "stop" : 1613670037268,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c44f12f34be4e6e",
+  "name" : "Testing 'orElse' function of the Failure class()",
+  "time" : {
+    "start" : 1613670037954,
+    "stop" : 1613670037955,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4fcee2a2fb08fc8",
+  "name" : "Testing basic validator of the 'ge' (the number is equals to a expected value)()",
+  "time" : {
+    "start" : 1613670036845,
+    "stop" : 1613670036849,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da5422a640c92a8d",
+  "name" : "Testing 'nullable' function (an attribute is found)()",
+  "time" : {
+    "start" : 1613670037720,
+    "stop" : 1613670037720,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4f2c80785bbb76c",
+  "name" : "Testing basic validator of the 'maxItems' (a count of elements is equal to the maximum)()",
+  "time" : {
+    "start" : 1613670037270,
+    "stop" : 1613670037272,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4282e9e8e86e8230",
+  "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)()",
+  "time" : {
+    "start" : 1613670038046,
+    "stop" : 1613670038046,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4d33f88e64d5f0f",
+  "name" : "Testing basic validator of the 'ge' (the number is less than a expected value)()",
+  "time" : {
+    "start" : 1613670036857,
+    "stop" : 1613670036859,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b8ca47ddc9d181b",
+  "name" : "Testing basic validator of the 'gt' (the number is more than a expected value)()",
+  "time" : {
+    "start" : 1613670036823,
+    "stop" : 1613670036827,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a2270394c4e599e",
+  "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)()",
+  "time" : {
+    "start" : 1613670037528,
+    "stop" : 1613670037529,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d09ef842f41ed192",
+  "name" : "Testing basic validator of the 'maxItems' (a count of elements is less than the maximum)()",
+  "time" : {
+    "start" : 1613670037275,
+    "stop" : 1613670037278,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7944d6cd351c58fe",
+  "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+  "time" : {
+    "start" : 1613670038043,
+    "stop" : 1613670038043,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15b2203307f8fde5",
+  "name" : "Testing writer for 'String' type()",
+  "time" : {
+    "start" : 1613670038308,
+    "stop" : 1613670038309,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b163f6a16ceb680",
+  "name" : "0",
+  "time" : {
+    "start" : 1613670038156,
+    "stop" : 1613670038157,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e368ff368189574",
+  "name" : "Testing of a write of a traversable attribute()",
+  "time" : {
+    "start" : 1613670038299,
+    "stop" : 1613670038299,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccd0820f6c922271",
+  "name" : "Testing basic validator of the 'minLength' (a value of a string is more than the min allowed length)()",
+  "time" : {
+    "start" : 1613670036932,
+    "stop" : 1613670036933,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bf354c9ebe3e521",
+  "name" : "Testing 'list' function (an attribute is not collection)()",
+  "time" : {
+    "start" : 1613670037556,
+    "stop" : 1613670037557,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9bc32649a2bccfd",
+  "name" : "Testing 'required' function (an attribute is not found)()",
+  "time" : {
+    "start" : 1613670038014,
+    "stop" : 1613670038015,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98eda6517e2ca6e7",
+  "name" : "Testing 'withDefault' function (an attribute is found)()",
+  "time" : {
+    "start" : 1613670038050,
+    "stop" : 1613670038051,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14d461e31295845e",
+  "name" : "1",
+  "time" : {
+    "start" : 1613670038177,
+    "stop" : 1613670038177,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "532e92b1335d69e3",
+  "name" : "Testing extension-function 'readAsBoolean'()",
+  "time" : {
+    "start" : 1613670037681,
+    "stop" : 1613670037684,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1987c3520f20b437",
+  "name" : "Testing 'flatMap' function of the Success class()",
+  "time" : {
+    "start" : 1613670037917,
+    "stop" : 1613670037923,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62b3d8a12550afaa",
+  "name" : "Testing writer for 'BigDecimal' (stripTrailingZeros is true)()",
+  "time" : {
+    "start" : 1613670038313,
+    "stop" : 1613670038315,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dbbb111e929535c",
+  "name" : "Testing 'onFailure' function of the Failure class()",
+  "time" : {
+    "start" : 1613670037961,
+    "stop" : 1613670037963,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ea5fb860456ce81",
+  "name" : "[1] true, true",
+  "time" : {
+    "start" : 1613670037465,
+    "stop" : 1613670037468,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "653efe399c3b47b6",
+  "name" : "Testing writer for 'Long' type()",
+  "time" : {
+    "start" : 1613670038330,
+    "stop" : 1613670038330,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abe28faa43938730",
+  "name" : "Testing basic validator of the 'eq' (the number is more than a expected value)()",
+  "time" : {
+    "start" : 1613670036810,
+    "stop" : 1613670036812,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "817b80a6c62bfea9",
+  "name" : "Testing basic validator of the 'minItems' (a count of elements is equal to the minimum)()",
+  "time" : {
+    "start" : 1613670037251,
+    "stop" : 1613670037251,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1dd2b18a14a0f17",
+  "name" : "0.1",
+  "time" : {
+    "start" : 1613670038126,
+    "stop" : 1613670038133,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9c0135c2ff912e6",
+  "name" : "Testing 'nullable' function (an attribute is not found, returning value 'null')()",
+  "time" : {
+    "start" : 1613670037726,
+    "stop" : 1613670037727,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93f83c1583a3b5c3",
+  "name" : "Testing basic validator of the 'isUnique' (a collection is empty)()",
+  "time" : {
+    "start" : 1613670037292,
+    "stop" : 1613670037293,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43d4bdf109a557ae",
+  "name" : "Testing 'valueOf' function of the JsNumber class for Byte type()",
+  "time" : {
+    "start" : 1613670038169,
+    "stop" : 1613670038170,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d70022142211da72",
+  "name" : "Testing 'list' function()",
+  "time" : {
+    "start" : 1613670037561,
+    "stop" : 1613670037581,
+    "duration" : 20
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa518aaa910157c8",
+  "name" : "Testing writer for 'Byte' type()",
+  "time" : {
+    "start" : 1613670038310,
+    "stop" : 1613670038310,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c848348ede1df767",
+  "name" : "Testing 'equals contract' of the InvalidType class()",
+  "time" : {
+    "start" : 1613670037988,
+    "stop" : 1613670037988,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccd090f3e54e3dca",
+  "name" : "1.5",
+  "time" : {
+    "start" : 1613670038181,
+    "stop" : 1613670038181,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eddf864f1970b097",
+  "name" : "1.50",
+  "time" : {
+    "start" : 1613670038211,
+    "stop" : 1613670038211,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3511696c38fdbd5",
+  "name" : "Testing 'repath' function of the Failure class()",
+  "time" : {
+    "start" : 1613670037957,
+    "stop" : 1613670037957,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e31d6820a44ff64",
+  "name" : "Testing 'withDefault' function (an attribute is found)()",
+  "time" : {
+    "start" : 1613670037531,
+    "stop" : 1613670037532,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11fe58a31b212f36",
+  "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is blank)()",
+  "time" : {
+    "start" : 1613670036975,
+    "stop" : 1613670036976,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "313d474fc27863c8",
+  "name" : "Testing 'equals contract' of the JsString class()",
+  "time" : {
+    "start" : 1613670038054,
+    "stop" : 1613670038055,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ec14f4d76983e9",
+  "name" : "1.50",
+  "time" : {
+    "start" : 1613670038186,
+    "stop" : 1613670038186,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22c443987ef1a63b",
+  "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and equal the min allowed length)()",
+  "time" : {
+    "start" : 1613670036929,
+    "stop" : 1613670036930,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45dd278392cf50a6",
+  "name" : "Testing basic validator of the 'le' (the number is more than a expected value)()",
+  "time" : {
+    "start" : 1613670036889,
+    "stop" : 1613670036891,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4bef9e298782c2a",
+  "name" : "[1] true, true",
+  "time" : {
+    "start" : 1613670037407,
+    "stop" : 1613670037440,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b567d2eea09a2a",
+  "name" : "Testing reader for 'Short' type (reading a value of an invalid format)()",
+  "time" : {
+    "start" : 1613670037830,
+    "stop" : 1613670037831,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84073f720f35ac74",
+  "name" : "Testing 'equals contract' of the NumberFormat class()",
+  "time" : {
+    "start" : 1613670037987,
+    "stop" : 1613670037987,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c45e0bf04c529f08",
+  "name" : "Testing 'set' function (collection with inconsistent content)()",
+  "time" : {
+    "start" : 1613670037614,
+    "stop" : 1613670037615,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e738f422813c759",
+  "name" : "Testing 'required' function (an attribute is not found, invalid type)()",
+  "time" : {
+    "start" : 1613670038012,
+    "stop" : 1613670038013,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40a46bf079e2e29d",
+  "name" : "Testing the constructor of the Failure class with only error description()",
+  "time" : {
+    "start" : 1613670037975,
+    "stop" : 1613670037976,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c227fdaa6d2b1c0",
+  "name" : "Testing reader for 'Byte' type (reading a value that more the allowed range)()",
+  "time" : {
+    "start" : 1613670037798,
+    "stop" : 1613670037799,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64b5898431a2dbf9",
+  "name" : "Testing 'equals contract' of the JsString class()",
+  "time" : {
+    "start" : 1613670038086,
+    "stop" : 1613670038087,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cac790094ad330d9",
+  "name" : "Testing the constructor of the Failure class with path and one error description()",
+  "time" : {
+    "start" : 1613670037970,
+    "stop" : 1613670037971,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "390b68f2630a3b30",
+  "name" : "-1.50",
+  "time" : {
+    "start" : 1613670038187,
+    "stop" : 1613670038188,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bc8774d6f2e2350",
+  "name" : "Testing basic validator of the 'le' (the number is less than a expected value)()",
+  "time" : {
+    "start" : 1613670036895,
+    "stop" : 1613670036896,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "915ed00605ea88b9",
+  "name" : "Testing reader for 'Short' type (reading a value that more the allowed range)()",
+  "time" : {
+    "start" : 1613670037832,
+    "stop" : 1613670037833,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a8f3391c57de5f2",
+  "name" : "Testing basic validator of the 'eq' (the number is more than a expected value)()",
+  "time" : {
+    "start" : 1613670036787,
+    "stop" : 1613670036788,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6874d54e8f3b97f9",
+  "name" : "Testing reader for 'Long' type (reading a value of an invalid format)()",
+  "time" : {
+    "start" : 1613670037868,
+    "stop" : 1613670037871,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8a9e4e54e31590",
+  "name" : "Testing 'list' function (array is empty)()",
+  "time" : {
+    "start" : 1613670037542,
+    "stop" : 1613670037554,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb4bf47b07f732fe",
+  "name" : "Testing basic validator of the 'max' (the number is equal to the maximum)()",
+  "time" : {
+    "start" : 1613670036768,
+    "stop" : 1613670036769,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87f50a48e03a85ad",
+  "name" : "Testing 'repath' function of the Success class()",
+  "time" : {
+    "start" : 1613670037914,
+    "stop" : 1613670037915,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c55cd6596e9e58a",
+  "name" : "Testing 'nullable' function (an attribute is not found, invalid type)()",
+  "time" : {
+    "start" : 1613670037729,
+    "stop" : 1613670037729,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bd4437e6738b713",
+  "name" : "min value",
+  "time" : {
+    "start" : 1613670037875,
+    "stop" : 1613670037876,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30516434fc277247",
+  "name" : "Testing 'flatMap' function of the Failure class()",
+  "time" : {
+    "start" : 1613670037959,
+    "stop" : 1613670037960,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2091ea8fc4e5309",
+  "name" : "Testing 'fx' extension of the JsResult for the binding failure()",
+  "time" : {
+    "start" : 1613670037904,
+    "stop" : 1613670037905,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6326b4d38cb2be2e",
+  "name" : "Testing basic validator of the 'minLength' (a value of a string is equal to the min allowed length)()",
+  "time" : {
+    "start" : 1613670036937,
+    "stop" : 1613670036938,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36ae4a98168c40a2",
+  "name" : "Testing basic validator of the 'max' (the number is less than the maximum)()",
+  "time" : {
+    "start" : 1613670036763,
+    "stop" : 1613670036765,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57669f4cba97df39",
+  "name" : "Testing inner state of the JsBoolean class()",
+  "time" : {
+    "start" : 1613670038079,
+    "stop" : 1613670038081,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "570299020bf0bc1",
+  "name" : "Testing basic validator of the 'min' (a number is less than the minimum)()",
+  "time" : {
+    "start" : 1613670036738,
+    "stop" : 1613670036740,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f63b456beaa42ecd",
+  "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and less the max allowed length)()",
+  "time" : {
+    "start" : 1613670036954,
+    "stop" : 1613670036954,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45e26a8ba9da0789",
+  "name" : "Testing 'fx' extension of the JsResult for the binding success()",
+  "time" : {
+    "start" : 1613670037898,
+    "stop" : 1613670037902,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "464ee345050fce72",
+  "name" : "Testing 'valueOf' function of the JsNumber class for Short type()",
+  "time" : {
+    "start" : 1613670038239,
+    "stop" : 1613670038240,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "faec593b371c1474",
+  "name" : "max value",
+  "time" : {
+    "start" : 1613670037818,
+    "stop" : 1613670037819,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b07c94b025f6e1e",
+  "name" : "Testing JsArray class without data()",
+  "time" : {
+    "start" : 1613670038056,
+    "stop" : 1613670038057,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9161e33c56a528c2",
+  "name" : "Testing basic validator of the 'min' (a number is equal to the minimum)()",
+  "time" : {
+    "start" : 1613670036730,
+    "stop" : 1613670036732,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a22163e00a44fe0",
+  "name" : "Testing extension-function 'readAsBoolean' (invalid type)()",
+  "time" : {
+    "start" : 1613670037687,
+    "stop" : 1613670037687,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50fa3c5032ce9693",
+  "name" : "Testing basic validator of the 'min' (a number is more than the minimum)()",
+  "time" : {
+    "start" : 1613670036713,
+    "stop" : 1613670036723,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "112bdbcabfbc071d",
+  "name" : "Testing extension-function 'readAsNumber'()",
+  "time" : {
+    "start" : 1613670037700,
+    "stop" : 1613670037700,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c98fad5e54209d5",
+  "name" : ".0",
+  "time" : {
+    "start" : 1613670038198,
+    "stop" : 1613670038199,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69f08382fa821ef4",
+  "name" : "Testing 'equals contract' of the JsNumber class()",
+  "time" : {
+    "start" : 1613670038172,
+    "stop" : 1613670038172,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba00ff0f67481f4a",
+  "name" : "Testing the constructor of the JsPath class with text parameter()",
+  "time" : {
+    "start" : 1613670036690,
+    "stop" : 1613670036691,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42cee51731dd0298",
+  "name" : "Testing 'required' function (an attribute is not found, invalid type)()",
+  "time" : {
+    "start" : 1613670038003,
+    "stop" : 1613670038006,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e21b77991af944ec",
+  "name" : "Testing basic validator of the 'maxLength' (a value of a string is empty)()",
+  "time" : {
+    "start" : 1613670036961,
+    "stop" : 1613670036962,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c7c878be0b93e34",
+  "name" : "Testing basic validator of the 'isA' (a value of a string is not a number)()",
+  "time" : {
+    "start" : 1613670037108,
+    "stop" : 1613670037109,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf9c201c185ca0c5",
+  "name" : "Testing of a write of a required attribute()",
+  "time" : {
+    "start" : 1613670038274,
+    "stop" : 1613670038275,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b02045b9530dd02f",
+  "name" : "Testing 'valueOf' function of the JsNumber class for Int type()",
+  "time" : {
+    "start" : 1613670038152,
+    "stop" : 1613670038153,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65687b7c8009575e",
+  "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)()",
+  "time" : {
+    "start" : 1613670038034,
+    "stop" : 1613670038035,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fee660583d8ada29",
+  "name" : "-1.5",
+  "time" : {
+    "start" : 1613670038209,
+    "stop" : 1613670038209,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4074acf0d53b5974",
+  "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is not empty)()",
+  "time" : {
+    "start" : 1613670036982,
+    "stop" : 1613670036983,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d81ee7b938cb126c",
+  "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+  "time" : {
+    "start" : 1613670037508,
+    "stop" : 1613670037510,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da32231dc43acb7",
+  "name" : "min value",
+  "time" : {
+    "start" : 1613670037885,
+    "stop" : 1613670037887,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e71d56e9bb0b1c1",
+  "name" : "Testing 'onFailure' function of the Success class()",
+  "time" : {
+    "start" : 1613670037929,
+    "stop" : 1613670037930,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f9a725f1bfbd7b3",
+  "name" : "Testing extension-function 'readAsString' (invalid type)()",
+  "time" : {
+    "start" : 1613670037691,
+    "stop" : 1613670037691,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5d85390ac005e80",
+  "name" : "Testing writer for 'Int' type()",
+  "time" : {
+    "start" : 1613670038326,
+    "stop" : 1613670038327,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d78a84031074fd71",
+  "name" : "Testing 'map' function of the Failure class()",
+  "time" : {
+    "start" : 1613670037950,
+    "stop" : 1613670037952,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38c8d03052528d40",
+  "name" : "Testing the constructor of the JsPath class without parameters()",
+  "time" : {
+    "start" : 1613670036698,
+    "stop" : 1613670036699,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7931dae84f674cf",
+  "name" : "Testing 'nullable' function (an attribute is found)()",
+  "time" : {
+    "start" : 1613670037706,
+    "stop" : 1613670037708,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49ce86a389494975",
+  "name" : "1.5",
+  "time" : {
+    "start" : 1613670038139,
+    "stop" : 1613670038143,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47a70b55a258bb0a",
+  "name" : "Testing reader for 'Short' type (reading from invalid node)()",
+  "time" : {
+    "start" : 1613670037835,
+    "stop" : 1613670037836,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42ff4e985db3a254",
+  "name" : "Testing reader for 'BigDecimal' type (reading from invalid node)()",
+  "time" : {
+    "start" : 1613670037893,
+    "stop" : 1613670037894,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bda1784db6729aa",
+  "name" : "Testing the constructor of the Failure class with path and errors description()",
+  "time" : {
+    "start" : 1613670037972,
+    "stop" : 1613670037973,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f38412e6e3162b6",
+  "name" : "Testing reader for 'Int' type (reading a value that more the allowed range)()",
+  "time" : {
+    "start" : 1613670037843,
+    "stop" : 1613670037844,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "211d09f45ee53f3c",
+  "name" : "Testing basic validator of the 'maxLength' (a value of a string is equal to the max allowed length)()",
+  "time" : {
+    "start" : 1613670036966,
+    "stop" : 1613670036967,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a92c020bc9f695f4",
+  "name" : "Testing basic validator of the 'maxItems' (a collection is empty)()",
+  "time" : {
+    "start" : 1613670037262,
+    "stop" : 1613670037266,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70c9bf502e6b102f",
+  "name" : "Testing 'toString' function of the JsArray class()",
+  "time" : {
+    "start" : 1613670038060,
+    "stop" : 1613670038061,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eaeb4b0326ca093e",
+  "name" : "Testing 'required' function (an attribute is found)()",
+  "time" : {
+    "start" : 1613670038018,
+    "stop" : 1613670038019,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1b479f7e3df04ab",
+  "name" : "Testing 'toString' function of the JsNull class()",
+  "time" : {
+    "start" : 1613670038242,
+    "stop" : 1613670038243,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1f8b6ee6416c7b2",
+  "name" : "Testing basic validator of the 'minLength' (a value of a string is empty)()",
+  "time" : {
+    "start" : 1613670036925,
+    "stop" : 1613670036926,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8d557802f34a07a",
+  "name" : "-0.0",
+  "time" : {
+    "start" : 1613670038122,
+    "stop" : 1613670038124,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3c9f761cf17077",
+  "name" : "1",
+  "time" : {
+    "start" : 1613670038159,
+    "stop" : 1613670038159,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5f5daa688a95f8c",
+  "name" : "min value",
+  "time" : {
+    "start" : 1613670037825,
+    "stop" : 1613670037827,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "957ea1a6ba674104",
+  "name" : "Testing 'repath' function in companion object()",
+  "time" : {
+    "start" : 1613670036660,
+    "stop" : 1613670036668,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "134b10b16d8cd89f",
+  "name" : "-0.1",
+  "time" : {
+    "start" : 1613670038134,
+    "stop" : 1613670038137,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b97568ac6a119fec",
+  "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and more the min allowed length)()",
+  "time" : {
+    "start" : 1613670036915,
+    "stop" : 1613670036917,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b303bb35756ae5a1",
+  "name" : "Testing 'withDefault' function (an attribute is found)()",
+  "time" : {
+    "start" : 1613670038039,
+    "stop" : 1613670038040,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4800b054998e713c",
+  "name" : "Testing reader for 'Long' type (reading from invalid node)()",
+  "time" : {
+    "start" : 1613670037863,
+    "stop" : 1613670037866,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98440fce99cb66e8",
+  "name" : "Testing basic validator of the 'pattern' (a value of a string is matching to the pattern)()",
+  "time" : {
+    "start" : 1613670037099,
+    "stop" : 1613670037100,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78b10378324a30cf",
+  "name" : "Testing 'getOrElse' function of the Failure class()",
+  "time" : {
+    "start" : 1613670037967,
+    "stop" : 1613670037967,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e40d98f81fb0240f",
+  "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)()",
+  "time" : {
+    "start" : 1613670037512,
+    "stop" : 1613670037526,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b6bffba9edb365a",
+  "name" : "Testing 'set' function()",
+  "time" : {
+    "start" : 1613670037609,
+    "stop" : 1613670037609,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8abf5673b2fa09f",
+  "name" : "Testing 'equals contract' of the JsObject class()",
+  "time" : {
+    "start" : 1613670038099,
+    "stop" : 1613670038101,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f000cf4a804209a4",
+  "name" : "[3] false, true",
+  "time" : {
+    "start" : 1613670037454,
+    "stop" : 1613670037455,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85ac19f03cb89d20",
+  "name" : "Testing writer for 'BigDecimal' (default configuration)()",
+  "time" : {
+    "start" : 1613670038328,
+    "stop" : 1613670038329,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3fdbee673fee404",
+  "name" : "Testing JsArray class()",
+  "time" : {
+    "start" : 1613670038059,
+    "stop" : 1613670038059,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acdd04d7a25a8789",
+  "name" : "Testing basic validator of the 'minItems' (a collection is empty)()",
+  "time" : {
+    "start" : 1613670037253,
+    "stop" : 1613670037256,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0c9df83bff6c80e",
+  "name" : "0.0",
+  "time" : {
+    "start" : 1613670038120,
+    "stop" : 1613670038120,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef9c3bb62862bd05",
+  "name" : "Testing reader for 'Boolean' type (reading from invalid node)()",
+  "time" : {
+    "start" : 1613670037748,
+    "stop" : 1613670037748,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26ce9b17553745f2",
+  "name" : "Testing 'withDefault' function (an attribute is found with value 'null', returning default value)()",
+  "time" : {
+    "start" : 1613670037497,
+    "stop" : 1613670037501,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "997cf7e8a3d33c77",
+  "name" : "Testing of a write of a optional traversable attribute()",
+  "time" : {
+    "start" : 1613670038303,
+    "stop" : 1613670038304,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da9f9cf0af42797a",
+  "name" : "testing 'lookup' function (an attribute by name is found)()",
+  "time" : {
+    "start" : 1613670038066,
+    "stop" : 1613670038067,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5682917265d55dd",
+  "name" : "Testing basic validator of the 'lt' (the number is less than a expected value)()",
+  "time" : {
+    "start" : 1613670036877,
+    "stop" : 1613670036878,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74175cd0a9eed77b",
+  "name" : "Testing 'withDefault' function (an attribute is not found, returning default value)()",
+  "time" : {
+    "start" : 1613670037502,
+    "stop" : 1613670037503,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b59d81cfd18cf109",
+  "name" : "Testing 'withDefault' function (an attribute is found)()",
+  "time" : {
+    "start" : 1613670037504,
+    "stop" : 1613670037505,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9fa477b4e407e39",
+  "name" : "Testing basic validator of the 'ne' (the number is equals to a expected value)()",
+  "time" : {
+    "start" : 1613670036816,
+    "stop" : 1613670036817,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "302165a80be9727b",
+  "name" : "-0",
+  "time" : {
+    "start" : 1613670038158,
+    "stop" : 1613670038158,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4098822bdef59724",
+  "name" : "Testing basic validator of the 'minItems' (a count of elements is more than the minimum)()",
+  "time" : {
+    "start" : 1613670037130,
+    "stop" : 1613670037244,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c1acbf16fbf81e4",
+  "name" : "-.0",
+  "time" : {
+    "start" : 1613670038202,
+    "stop" : 1613670038203,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cd936ac9bfa8ee1",
+  "name" : "Testing writer for 'Short' type()",
+  "time" : {
+    "start" : 1613670038311,
+    "stop" : 1613670038312,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eee5f070cdd11edb",
+  "name" : "Testing basic validator of the 'ge' (the number is more than a expected value)()",
+  "time" : {
+    "start" : 1613670036853,
+    "stop" : 1613670036854,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "896df9b35e92b205",
+  "name" : "Testing basic validator of the 'lt' (the number is equals to a expected value)()",
+  "time" : {
+    "start" : 1613670036865,
+    "stop" : 1613670036868,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77fcf79338f5398c",
+  "name" : "Testing basic validator of the 'pattern' (a value of a string is not matching to the pattern)()",
+  "time" : {
+    "start" : 1613670037087,
+    "stop" : 1613670037089,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86fd0bc555f106e2",
+  "name" : "max value",
+  "time" : {
+    "start" : 1613670037857,
+    "stop" : 1613670037858,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fad1078237342227",
+  "name" : "Testing 'toString' function of the JsPath class()",
+  "time" : {
+    "start" : 1613670036321,
+    "stop" : 1613670036445,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "970a9f24350d6881",
+  "name" : "Testing basic validator of the 'isUnique' (a collection contains only unique values)()",
+  "time" : {
+    "start" : 1613670037283,
+    "stop" : 1613670037287,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4011b006eba9ff3",
+  "name" : "Testing 'or' function of the JsReader class (first reader)()",
+  "time" : {
+    "start" : 1613670037620,
+    "stop" : 1613670037625,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "135395223e9818b2",
+  "name" : "[4] false, false",
+  "time" : {
+    "start" : 1613670037459,
+    "stop" : 1613670037460,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1304e3b0df437b82",
+  "name" : "Testing 'toString' function of the JsString class()",
+  "time" : {
+    "start" : 1613670038088,
+    "stop" : 1613670038089,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b3c65b595614ebb",
+  "name" : "Testing basic validator of the 'max' (the number is more than the maximum)()",
+  "time" : {
+    "start" : 1613670036753,
+    "stop" : 1613670036757,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcd9b3e27387ce03",
+  "name" : "-1",
+  "time" : {
+    "start" : 1613670038178,
+    "stop" : 1613670038180,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "106b0025aa830195",
+  "name" : "Testing JsObject class without attributes()",
+  "time" : {
+    "start" : 1613670038106,
+    "stop" : 1613670038111,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46261afcfdaa4b6c",
+  "name" : "Testing 'withDefault' function (an attribute is not found, invalid type)()",
+  "time" : {
+    "start" : 1613670037487,
+    "stop" : 1613670037494,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39ed83912bc836c6",
+  "name" : "Testing 'list' function (collection with inconsistent content)()",
+  "time" : {
+    "start" : 1613670037587,
+    "stop" : 1613670037592,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1454f13629c92d9a",
+  "name" : "-1",
+  "time" : {
+    "start" : 1613670038205,
+    "stop" : 1613670038206,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10058f836fd7d322",
+  "name" : "-100",
+  "time" : {
+    "start" : 1613670038167,
+    "stop" : 1613670038167,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "428fb899f34a497a",
+  "name" : "Testing 'set' function (an attribute is not collection)()",
+  "time" : {
+    "start" : 1613670037611,
+    "stop" : 1613670037612,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e99cdb45f420e28",
+  "name" : "Testing the constructor of the JsPath class with number parameter()",
+  "time" : {
+    "start" : 1613670036682,
+    "stop" : 1613670036685,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c944894ebbe59681",
+  "name" : "Testing 'map' function of the Success class()",
+  "time" : {
+    "start" : 1613670037938,
+    "stop" : 1613670037942,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c785de3fd29dbb16",
+  "name" : "1.50",
+  "time" : {
+    "start" : 1613670038147,
+    "stop" : 1613670038148,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8f159ce52ed959a",
+  "name" : "Testing basic validator of the 'minItems' (a number of elements is less than the minimum)()",
+  "time" : {
+    "start" : 1613670037248,
+    "stop" : 1613670037249,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a3a567d2bb93cab",
+  "name" : "-1.5",
+  "time" : {
+    "start" : 1613670038183,
+    "stop" : 1613670038183,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5c4047c418cde64",
+  "name" : "Testing reader for 'String' type (reading from invalid node)()",
+  "time" : {
+    "start" : 1613670037756,
+    "stop" : 1613670037756,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76ded7d5b72011f5",
+  "name" : "Testing basic validator of the 'isNotEmpty' (a value of a string is empty)()",
+  "time" : {
+    "start" : 1613670036979,
+    "stop" : 1613670036980,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37ecd90e6193f210",
+  "name" : "Testing 'nullable' function (an attribute is not found, returning value 'null')()",
+  "time" : {
+    "start" : 1613670037713,
+    "stop" : 1613670037713,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6b29f8d406c031f",
+  "name" : "Testing 'nullable' function (an attribute is not found, invalid type)()",
+  "time" : {
+    "start" : 1613670037716,
+    "stop" : 1613670037717,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1aa54326f1810a9e",
+  "name" : "Testing extension-function 'readAsNumber' invalid type)()",
+  "time" : {
+    "start" : 1613670037698,
+    "stop" : 1613670037698,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "567eb9d628193c3a",
+  "name" : "Testing of a write of an optional attribute (a value of an attribute is null)()",
+  "time" : {
+    "start" : 1613670038286,
+    "stop" : 1613670038286,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9debb98e5710130a",
+  "name" : "Testing basic validator of the 'isA' (a value of a string is not a number but an empty string)()",
+  "time" : {
+    "start" : 1613670037121,
+    "stop" : 1613670037121,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21eff90298ee41ff",
+  "name" : "Testing 'getOrElse' function of the Success class()",
+  "time" : {
+    "start" : 1613670037933,
+    "stop" : 1613670037934,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "804aa1b9e34bcdad",
+  "name" : "Testing basic validator of the 'maxLength' (a value of a string is blank, and equal the max allowed length)()",
+  "time" : {
+    "start" : 1613670036970,
+    "stop" : 1613670036971,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a97e4e499ecda641",
+  "name" : "Testing basic validator of the 'isUnique' (a collection contains duplicates)()",
+  "time" : {
+    "start" : 1613670037295,
+    "stop" : 1613670037296,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "917230e832b612db",
+  "name" : "max value",
+  "time" : {
+    "start" : 1613670037828,
+    "stop" : 1613670037828,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62a3684a01a5ba23",
+  "name" : "Testing 'nullable' function (an attribute is found with value 'null')()",
+  "time" : {
+    "start" : 1613670037710,
+    "stop" : 1613670037711,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9202a4e4b3319aa5",
+  "name" : "Testing reader for 'Byte' type (reading a value of an invalid format)()",
+  "time" : {
+    "start" : 1613670037760,
+    "stop" : 1613670037791,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b314603f7f604fd4",
+  "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is empty)()",
+  "time" : {
+    "start" : 1613670037078,
+    "stop" : 1613670037079,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae3be69e03f38c7c",
+  "name" : "Testing basic validator of the 'pattern' (a value of a string is empty)()",
+  "time" : {
+    "start" : 1613670037094,
+    "stop" : 1613670037096,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6abec4683fa6a98",
+  "name" : "Testing basic validator of the 'maxLength' (a value of a string is more than the max allowed length)()",
+  "time" : {
+    "start" : 1613670036945,
+    "stop" : 1613670036948,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84d38df0ea67ecdc",
+  "name" : "Testing basic validator of the 'minLength' (a value of a string is blank, and less the min allowed length)()",
+  "time" : {
+    "start" : 1613670036922,
+    "stop" : 1613670036922,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab55b3c27b7de8f7",
+  "name" : "Testing of a write of a nullable attribute (a value of an attribute is null)()",
+  "time" : {
+    "start" : 1613670038290,
+    "stop" : 1613670038291,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a36e65630aebe923",
+  "name" : "Testing basic validator of the 'minLength' (a value of a string is less than the min allowed length)()",
+  "time" : {
+    "start" : 1613670036909,
+    "stop" : 1613670036911,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62cfa95b85d9edc",
+  "name" : "false",
+  "time" : {
+    "start" : 1613670038196,
+    "stop" : 1613670038196,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7550e67043ea029a",
+  "name" : "Testing basic validator of the 'ne' (the number is less than a expected value)()",
+  "time" : {
+    "start" : 1613670036797,
+    "stop" : 1613670036800,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "396c5b80c988bf24",
+  "name" : "Testing 'nullable' function (an attribute is found with value 'null')()",
+  "time" : {
+    "start" : 1613670037722,
+    "stop" : 1613670037722,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dab4ab64996c50",
+  "name" : "Testing basic validator of the 'isNotBlank' (a value of a string is blank)()",
+  "time" : {
+    "start" : 1613670037074,
+    "stop" : 1613670037075,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

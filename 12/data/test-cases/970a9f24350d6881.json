@@ -1,0 +1,57 @@
+{
+  "uid" : "970a9f24350d6881",
+  "name" : "Testing basic validator of the 'isUnique' (a collection contains only unique values)()",
+  "fullName" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$IsUnique.Testing basic validator of the 'isUnique' (a collection contains only unique values)",
+  "historyId" : "806007982fe79c3bb0e38a149e4a0279",
+  "time" : {
+    "start" : 1613670037283,
+    "stop" : 1613670037287,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$IsUnique"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest$IsUnique"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing basic validator of the 'isUnique' (a collection contains only unique values)"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.validator.base.ArrayValidatorsTest.IsUnique"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "970a9f24350d6881.json",
+  "parameterValues" : [ ]
+}

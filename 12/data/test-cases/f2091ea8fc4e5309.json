@@ -1,0 +1,57 @@
+{
+  "uid" : "f2091ea8fc4e5309",
+  "name" : "Testing 'fx' extension of the JsResult for the binding failure()",
+  "fullName" : "io.github.airflux.reader.result.fx.JsResultFxTest.Testing 'fx' extension of the JsResult for the binding failure",
+  "historyId" : "63b63a119838909dcce36fe4ce3deb88",
+  "time" : {
+    "start" : 1613670037904,
+    "stop" : 1613670037905,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.result.fx.JsResultFxTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.result.fx.JsResultFxTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'fx' extension of the JsResult for the binding failure"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.result.fx.JsResultFxTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2091ea8fc4e5309.json",
+  "parameterValues" : [ ]
+}

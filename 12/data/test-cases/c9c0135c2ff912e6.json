@@ -1,0 +1,57 @@
+{
+  "uid" : "c9c0135c2ff912e6",
+  "name" : "Testing 'nullable' function (an attribute is not found, returning value 'null')()",
+  "fullName" : "io.github.airflux.reader.NullablePathReaderTest$FromJsValue.Testing 'nullable' function (an attribute is not found, returning value 'null')",
+  "historyId" : "c1ec1c51574c72105bfd21ca1bd49d0c",
+  "time" : {
+    "start" : 1613670037726,
+    "stop" : 1613670037727,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.NullablePathReaderTest$FromJsValue"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.NullablePathReaderTest$FromJsValue"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing 'nullable' function (an attribute is not found, returning value 'null')"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.NullablePathReaderTest.FromJsValue"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9c0135c2ff912e6.json",
+  "parameterValues" : [ ]
+}

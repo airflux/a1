@@ -1,0 +1,57 @@
+{
+  "uid" : "1154465ffe0e64dc",
+  "name" : "min value",
+  "fullName" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ByteReader.Testing reader for 'Byte' type",
+  "historyId" : "ea5dfc7e5d58d9c962cc3b66c04fcc37",
+  "time" : {
+    "start" : 1613670037814,
+    "stop" : 1613670037816,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-295"
+  }, {
+    "name" : "thread",
+    "value" : "4487@fv-az40-295.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ByteReader"
+  }, {
+    "name" : "testClass",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest$ByteReader"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing reader for 'Byte' type"
+  }, {
+    "name" : "suite",
+    "value" : "io.github.airflux.reader.base.BasePrimitiveReaderTest.ByteReader"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1154465ffe0e64dc.json",
+  "parameterValues" : [ ]
+}
